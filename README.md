@@ -1,3 +1,3 @@
 # Northeast California JPA
 
-Chapter 1 describing Northeast California JPA formation and funding 
+Strategy for funding the Northeast California Joint Powers Authority for woody biomass aggregation.
