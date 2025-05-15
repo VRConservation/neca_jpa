@@ -1,5 +1,5 @@
 ---
-title: Funding Joint Power Authorities 🧙
+title: Funding JPAs 🧙
 subject: Report
 subtitle: Wood aggregation infrastructure resources
 short_title: Funding JPAs
@@ -70,16 +70,27 @@ Revenue may also be derived from the feedstock supply insurance product currentl
 
 Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
-```{admonition} Voluntary Markets & Certification DRAFT TO ADD
-Carbon, water, & biodiversity Markets, nature-based solutions <br>
-Wood product certification
-```
+
+:::{seealso} New Finance Options
+:class: dropdown
+**New Finance Options**
+
+**Collaborative Finance**
+
+**Carbon Markets**
+
+**AWE Protocol**
+
+**Embodied Carbon**
+
+:::
 
 On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
 ```{caution}
 It is critical to incorporate into the JPA's bylaws and revenue-generating practices that grant fundraising does not compete with the RCDs in the region. It is possible the JPA may collaborate on a grant with one or more RCDs but should never submit grants for which an RCD qualifies.
 ```
+
 A contingency fund is written into the budget expense sheet as any annual surplus is invested into a contingency pool. Adding 10-15% contingency line items to any secured grant would supplement that funding, although most grant funding contingencies are to be applied to implementation budget shortfalls. Other contingency funding sources could come from unrestricted funding (contributions/gifts) and a higher indirect rate.
 
 ### Expenses
@@ -91,7 +102,7 @@ The bulk of the expenses are for labor/staff, including an executive director, c
 - **Administrative Bookkeeper**. Track/invoice budget, develop cost allocation plan, manage grant reporting, administer payroll, manage AP/AR accounts, prepare 1099s and tax docs, develop grant budgets, and ensure financial compliance.
 - **Feedstock Manager**. Source and sell feedstock from public and private lands, arrange transport to sort yard(s), manage sort yards, develop outreach materials, manage compliance documents for sort yard and aggregation, and maintain records.
 
-Other expenses include operations and maintenance as detailed in {ref}`appendix1`, such as filing fees, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website, outreach and equipment, insurance, and land lease costs for a sort yard.
+Other expenses include operations and maintenance, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website, outreach and equipment, insurance, and land lease costs for a sort yard.
 
 ## Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
