@@ -25,7 +25,7 @@ exports:
 
 # JPA Funding
 
-## Summary
+## Executive Summary
 The JPA finance chapter is a strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](http://gg.gg/1a0lji) report to the Fall River Resource Conservation District.
 
 Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
@@ -54,7 +54,7 @@ In general, the feasible options identified are traditional and similar to fundi
 3. The GANTT chart timeline includes testing, adopting, and implementing temporal finance mechanisms ({numref}`gantt`).
   
 ## Budget
-CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. A detailed line item budget can be found in {ref}`appendix1`.
+CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. 
 
 ```{figure} /figures/summary.png
 :name: summary
@@ -109,14 +109,15 @@ GANTT timeline for the JPA startup period.
 
 ## Plumas County
 
-```{code-cell}
+```{code-cell} python
 import leafmap.foliumap as leafmap
 
 m = leafmap.Map(center=[39.9371, -120.9566], zoom=10)
 m.add_basemap("TERRAIN")
+# plumas = '/plumas/plumas.shp'
+# m.add_shp(plumas, layer_name='Plumas County')
 m
 ```
-
 
 
 ```
