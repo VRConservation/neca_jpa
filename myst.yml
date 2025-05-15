@@ -29,7 +29,8 @@ site:
   nav:
     - title: Conservation Finance
       url: https://confinance.info
-    - title: Open Geospatial
-      url: https://3point.xyz/geosp
     - title: FBA Guide
       url: https://forestbiz.info
+    - title: Open Geospatial
+      url: https://3point.xyz/geosp
+
