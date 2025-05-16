@@ -1,7 +1,7 @@
 ---
-title: Funding JPAs 🧙
+title: JPA Funding Strategies 🧙
 subject: Report
-subtitle: Wood aggregation infrastructure resources
+subtitle: For woody feedstock aggregation entities in California
 short_title: Funding JPAs
 authors:
   - name: Vance Russell
@@ -12,25 +12,30 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-  JPA finance is a strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. 
+  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years.
 kernelspec:
   name: python3
   display_name: Python 3
 exports:
-  - format: docx
   - format: pdf
-    template: volcanica
+    template: curvenote
+    output: exports/jpa.pdf
     article_type: Report
 ---
 
-# JPA Funding
+# Takeaways
+1. Joint Power Authorities (JPAs) have been proposed as a solution to aggregate woody feedstock from forest health projects in California.
+2. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI).
+3. Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects.
+4. This paper is adapted from a funding analysis for the North Eastern California pilot.
+5. The analysis made a conservative estimate of $1.5 million over three years to run the JPA
 
-## Executive Summary
+# Background
 The JPA finance chapter is a strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) report to the Fall River Resource Conservation District.
 
 Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
 
-Reference citation example from doi (https://doi.org/10.3389/ffgc.2022.979528)
+Reference citation example from https://doi.org/10.3389/ffgc.2022.979528
 
 ## Recommendations
 1. Distinguish between start-up vs. operational funds.
@@ -151,6 +156,8 @@ m.add_basemap("TERRAIN")
 # m.add_shp(plumas, layer_name='Plumas County')
 m
 ```
+
+
 
 
 ```
