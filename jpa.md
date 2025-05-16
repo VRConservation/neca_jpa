@@ -21,6 +21,8 @@ exports:
     template: curvenote
     output: exports/jpa.pdf
     article_type: Report
+  - format: docx
+    output: exports/jpa.docx  
 ---
 
 # Takeaways
