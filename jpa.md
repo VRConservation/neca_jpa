@@ -33,19 +33,30 @@ exports:
 5. The analysis made a conservative estimate of $1.5 million over three years to run the JPA
 
 # Background
-The JPA finance chapter is a strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) report to the Fall River Resource Conservation District.
+The large wildfires seasons of the past five years have been catastrophic for forests and communities. According to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, however, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. https://doi.org/10.1016/j.foreco.2021.120004 found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada. A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. Researchers call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand https://doi.org/10.2737/PSW-GTR-220. 
+
+Cite the pile burning paper too?
+
+Concerns for protecting mature and old growth from https://doi.org/10.3389/ffgc.2022.979528. Also cite https://doi.org/10.3389/ffgc.2025.1493879
+
+https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass were limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. 
+
+JPA finance strategy is adapted from the effort to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CALFRAME) pilot. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) report to the Fall River Resource Conservation District.
+
+:::{important} What is a JPA?
+:class: dropdown
+
+Paraphrased from the Governments Working Together manual: Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
+
+A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
+
+:::
 
 Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
 
-Reference citation example from https://doi.org/10.3389/ffgc.2022.979528
+# Funding Options
+Maybe put these in a table?
 
-## Recommendations
-1. Distinguish between start-up vs. operational funds.
-2. Consider budget ramping
-3. Tie expenses to realistic revenues
-4. Consider temporal addition of non-traditional or higher risk revenue sources, but pilot them at a small scale first, then ramp up with success.
-
-## Feasible Options
 The JPA steering committee identified the following options as the most promising to provide a steady income stream to run the JPA:
 
 1. **Endowment**. Create an endowment from the OPR funding tranche (plus other contributions) and invest it conservatively. Interest/gains from the principal would partially fund the JPA. We have assumed the seed funding for the JPA is \$2 mn from OPR with an additional $500,000 from foundation, corporate, and individual contributions.
@@ -62,7 +73,7 @@ In general, the feasible options identified are traditional and similar to fundi
 2. Other revenue-generating options could be tested in the same manner to ensure their effectiveness and introduce them to skeptical participants, financial managers, or government entities that are not used to working with alternative finance options.
 3. The GANTT chart timeline includes testing, adopting, and implementing temporal finance mechanisms ({numref}`gantt`).
   
-## Budget
+# Budget
 CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. 
 
 ```{figure} /figures/summary.png
@@ -70,12 +81,12 @@ CAL FRAME partners estimated an approximate annual budget averaging \$400,000 du
 Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Contributions include passive income based on a \$1 mn seed-funded endowment. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
 ```
 
-### Revenue
+## Revenue
 The revenue estimates are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment). We've made a conservative estimate for the start-up endowment, but the number may be higher but not substantially, e.g., \$2 mn.
 
 Contributions include endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and corporations interested in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
 
-Revenue may also be derived from the feedstock supply insurance product currently being developed by members of the CAL FRAME team and Ecostrat. Approximately half the startup funding could fund this mechanism or a parametric insurance model. These are in process, so more details will be provided once ready.
+Revenue may also be derived from the feedstock supply insurance product being developed by members of the CALFRAME team and Ecostrat. Approximately half the startup funding could fund this mechanism or a parametric insurance model. These are in process, so more details will be provided once ready.
 
 Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
@@ -122,7 +133,7 @@ It is critical to incorporate into the JPA's bylaws and revenue-generating pract
 
 A contingency fund is written into the budget expense sheet as any annual surplus is invested into a contingency pool. Adding 10-15% contingency line items to any secured grant would supplement that funding, although most grant funding contingencies are to be applied to implementation budget shortfalls. Other contingency funding sources could come from unrestricted funding (contributions/gifts) and a higher indirect rate.
 
-### Expenses
+## Expenses
 JPA partners originally estimated an average annual expense budget of ~\$ $400,000. The total expenses/year slowly ramp up each year of the budget with the idea that with additional secured revenue, the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards.
 
 The bulk of the expenses are for labor/staff, including an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services. Briefly, the staff responsibilities are the following:
@@ -133,7 +144,7 @@ The bulk of the expenses are for labor/staff, including an executive director, c
 
 Other expenses include operations and maintenance, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website, outreach and equipment, insurance, and land lease costs for a sort yard.
 
-## Timeline
+# Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
 
 ```{figure} /figures/gantt.png
@@ -141,25 +152,17 @@ An approximate timeline for key activities to fund and operationalize the JPA is
 GANTT timeline for the JPA startup period.
 ```
 
-## Next steps
-1. Fund a sort yard feasibility study.
-2. Consider a feasibility study to determine revenue from realistic to moon-shot possibilities.
-3. Examine insurance requirements and costs.
-4. As revenue is secured, refine the budget and create a more detailed operating budget
+# Recommendations
+Expand explanation of these
 
-## Plumas County
-
-```{code-cell} python
-import leafmap.foliumap as leafmap
-
-m = leafmap.Map(center=[39.9371, -120.9566], zoom=10)
-m.add_basemap("TERRAIN")
-# plumas = '/plumas/plumas.shp'
-# m.add_shp(plumas, layer_name='Plumas County')
-m
-```
-
-
+1. Distinguish between start-up vs. operational funds.
+2. Consider budget ramping
+3. Tie expenses to realistic revenues
+4. Consider temporal addition of non-traditional or higher risk revenue sources, but pilot them at a small scale first, then ramp up with success.
+5. Fund a sort yard feasibility study.
+6. Consider a feasibility study to determine revenue from realistic to moon-shot possibilities.
+7. Examine insurance requirements and costs.
+8. As revenue is secured, refine the budget and create a more detailed operating budget
 
 
 ```
