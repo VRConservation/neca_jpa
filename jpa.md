@@ -150,11 +150,14 @@ Fintech
 :::
 
 # Budget
-CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. 
+CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`budget`. 
 
-```{figure} /figures/summary.png
-:name: summary
-Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Contributions include passive income based on a \$1 mn seed-funded endowment. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
+```{table} Three-year hyothetical JPA budget showing revenue and expenses. 
+:name: budget
+
+
+
+
 ```
 
 ## Revenue
@@ -192,7 +195,7 @@ Other expenses include operations and maintenance, audit/legal fees, insurance, 
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
 
 ```{figure} /figures/gantt.png
-:name: gantt
+:name: budget
 GANTT timeline for the JPA startup period.
 ```
 
