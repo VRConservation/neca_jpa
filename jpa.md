@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years.
+  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -25,15 +25,8 @@ exports:
     output: exports/jpa.docx  
 ---
 
-# Takeaways
-1. Joint Power Authorities (JPAs) have been proposed as a solution to aggregate woody feedstock from forest health projects in California.
-2. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI).
-3. Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects.
-4. This paper is adapted from a funding analysis for the North Eastern California pilot.
-5. The analysis made a conservative estimate of $1.5 million over three years to run the JPA
-
 # Background
-The large wildfires seasons of the past five years have been catastrophic for forests and communities. According to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, however, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. https://doi.org/10.1016/j.foreco.2021.120004 found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada. A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. Researchers call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand https://doi.org/10.2737/PSW-GTR-220. 
+The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. https://doi.org/10.1016/j.foreco.2021.120004 found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada. A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand. 
 
 Cite the pile burning paper too?
 
