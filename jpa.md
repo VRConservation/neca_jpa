@@ -206,7 +206,20 @@ An approximate timeline for key activities to fund and operationalize the JPA is
 ```{table} GANTT timeline for the JPA startup period.
 :label: gantt
 
-
+| **Task**                  | **Sub-task**               | **2025** | **2026** | **2027** | **2028** | **2029** | **2030** |
+|:--------------------------|:---------------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| **1. Revenue Generation** | Endowment creation         |          |          | X        | X        | X        |          |
+|                           | Gift campaign              | X        | X        | X        |          |          |          |
+|                           | Fee-service                |          |          | X        |  X       | X        | X        |
+|                           | Sort yard 1                |          |          |          |          | X        |          |
+|                           | Sort yard 2                |          |          |          |          |          | X        |
+|                           |                            |          |          |          |          |          |          |
+| **2. Staffing**           | Executive director         | X        |          |          |          |          |          |
+|                           | Administrator              | X        |          |          |          |          |          |
+|                           | Feedstock manager          |          | X        |          |          |          |          |
+|                           |                            |          |          |          |          |          |          |
+| **3. Governance**         | JPA bylaws                 | X        | X        |          |          |          |          |
+|                           | LAFCO filing               | X        |          |          |          |          |          |
 
 ```
 
