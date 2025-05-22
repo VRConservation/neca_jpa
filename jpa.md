@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
+  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -26,13 +26,17 @@ exports:
 ---
 
 # Background
-The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. https://doi.org/10.1016/j.foreco.2021.120004 found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada. A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand. 
+The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. resaerchers  found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand. 
 
 Cite the pile burning paper too?
 
-Concerns for protecting mature and old growth from https://doi.org/10.3389/ffgc.2022.979528. Also cite https://doi.org/10.3389/ffgc.2025.1493879
+Concerns for protecting mature and old growth ([Dellasalla 2022](https://doi.org/10.3389/ffgc.2022.979528)). Also cite https://doi.org/10.3389/ffgc.2025.1493879
 
+## Infrastructure & Capacity
 https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass were limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. 
+
+## JPA 
+Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. 
 
 JPA finance strategy is adapted from the effort to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CALFRAME) pilot. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) report to the Fall River Resource Conservation District.
 
@@ -48,16 +52,58 @@ A joint powers authority (JPA) is a separate government organization created by 
 Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
 
 # Funding Options
-Maybe put these in a table?
+The abundance of state and federal funding of the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 clearly demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
 
-The JPA steering committee identified the following options as the most promising to provide a steady income stream to run the JPA:
+## Traditional
+The Northeast California CAL FRAME project recognized the need for grant funding to start the JPA, and realized the need for additional funding sources that can sustainably fund the JPA over time. These are described below and summarized in ({numref}`funding`).
 
 1. **Endowment**. Create an endowment from the OPR funding tranche (plus other contributions) and invest it conservatively. Interest/gains from the principal would partially fund the JPA. We have assumed the seed funding for the JPA is \$2 mn from OPR with an additional $500,000 from foundation, corporate, and individual contributions.
-2. **Contributions/gifts**. Although the McConnell Foundation is an eventual, not immediate donor, casting a wider net at the state or Western Region level for foundations, corporations, and individuals that could give to the JPA is warranted. We suggest that rather than considering the contributions as grants to support the JPA, the Pilot Project Team should consider creating a campaign with a specific fundraising amount to start. This approach will make it easier to approach each donor with a specific amount to ask, make donors part of the overall campaign, and make smaller contributions from individuals meaningful and possible. We also recommend that initial contributions go to endowment creation.
+2. **Contributions**. Although the McConnell Foundation is an eventual, not immediate donor, casting a wider net at the state or Western Region level for foundations, corporations, and individuals that could give to the JPA is warranted. We suggest that rather than considering the contributions as grants to support the JPA, the Pilot Project Team should consider creating a campaign with a specific fundraising amount to start. This approach will make it easier to approach each donor with a specific amount to ask, make donors part of the overall campaign, and make smaller contributions from individuals meaningful and possible. We also recommend that initial contributions go to endowment creation.
 3. **Federal and State Grants**. It is unlikely that the JPA will get operational funding from state and fed grants, but any proposals that it leads or participates in could charge overhead (~10%) plus directly bill salaries to cover some operating costs. Negotiating a higher indirect, or NICRA, to increase this value by a grant could be another long-term strategy to increase operating cost revenues.
 4. **Member Contributions**. RCD and other feedstock aggregation members pay \$5k/yr to participate in the program. This would be unrestricted funding for the JPA.
 5. **Fee for Service**. Western Shasta RCD, for example, works with nonindustrial forest owners and provides services for forest management plans with small forested LOs (The State funds the development of FMPs, but landowners cannot secure funds to implement the plans). JPA could create a similar service offering. However, it must ensure it does not compete with the region's RCDs.
 6. **Sort yards**. Managing a sort yard for aggregated feedstock would be a strategic revenue source in line with the JPA mission. This would require substantial investment in equipment and a site to start. See the budget for a cost breakdown. A feasibility study would be helpful to understand total costs, potential revenue, and risk reduction associated with the yard.
+
+:::{list-table} Analysis of funding types appropriate to aggregation JPAs. Timing roughly refers to the amount of time required to generate income. Difficulty is a qualitative scale from 1 = easiest to secure to 5 = most difficult.
+:header-rows: 1
+:label: funding
+
+* - Type
+  - Pluses
+  - Minuses
+  - Timing
+  - Difficulty
+* - Endowment
+  - Steady income from principal
+  - Need significant amounts to generate income
+  - May take a long time to build principal
+  - 5
+* - Individual Contributions
+  - Unrestricted funding
+  - Much time to manage individual contributions
+  - Instant
+  - 1
+* - Public Grants
+  - Access to large amounts of money
+  - Reimbursable, administration costs can be high, stiff competition, cyclic
+  - Public grants may take up to 1 year to contracting from proposal submittal
+  - 3
+* - Private Grants
+  - Often include unrestricted funding
+  - Dependent on relationships to program officers, board members
+  - Lengthy time for relationship building 
+  - 2
+* - Fee-for-Service
+  - Steady income based on capacity and experience for services
+  - Staffing, uneveness of demand
+  - Long time to develop and market services
+  - 3
+* - Sort Yard
+  - Steady income, demand for wood high
+  - Transportation costs, management, long-term supply
+  - Permitting and capacity building may take a long time
+  - 4      
+:::
 
 ## Temporal Adoption
 In general, the feasible options identified are traditional and similar to funding approaches for an RCD or nonprofit. 
@@ -65,24 +111,9 @@ In general, the feasible options identified are traditional and similar to fundi
 1. New finance options, such as environmental impact bonds, could be introduced over a longer time period and trialed at a small scale, then scale up when successful. These could also be other finance mechanisms, such as revolving loan funds (with low-interest loans), public-private partnerships, or bonds.
 2. Other revenue-generating options could be tested in the same manner to ensure their effectiveness and introduce them to skeptical participants, financial managers, or government entities that are not used to working with alternative finance options.
 3. The GANTT chart timeline includes testing, adopting, and implementing temporal finance mechanisms ({numref}`gantt`).
-  
-# Budget
-CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. 
 
-```{figure} /figures/summary.png
-:name: summary
-Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Contributions include passive income based on a \$1 mn seed-funded endowment. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
-```
-
-## Revenue
-The revenue estimates are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment). We've made a conservative estimate for the start-up endowment, but the number may be higher but not substantially, e.g., \$2 mn.
-
-Contributions include endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and corporations interested in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
-
-Revenue may also be derived from the feedstock supply insurance product being developed by members of the CALFRAME team and Ecostrat. Approximately half the startup funding could fund this mechanism or a parametric insurance model. These are in process, so more details will be provided once ready.
-
-Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
-
+## Collaborative Finance
+[Collaborative finance](https://en.wikipedia.org/wiki/Collaborative_finance)
 
 :::{seealso} New Funding Options
 :class: dropdown
@@ -113,10 +144,30 @@ Parametric or index-based insurance covers the probability of a predefined event
 One of the earliest examples of parametric insurance use for nature recovery is the Mesoamerican Reef parametric insurance that provided $800,000 for reef restoration following Hurricane Delta. The trigger was windspeed with a parameter greater than 100 knots. The funds came from the Coastal Zone Management Trust (Winters, 2020). Using insurance to protect forests and communities, likely through wildfire risk mitigation, could be a novel way to fund the JPA’s activities throughout the region and provide complementary funds that could be particularly valuable post fire.
 
 **Tech-based Solutions**
-Technology could help finance the JPA, connect payors to the JPA, and provide digital platforms that connect funders to implementers. Blockchain and digital solutions have mostly been applied to reforestation and carbon sequestration projects. It could be possible to just set up a digital marketplace, where funders and implementers connect to implement forest health restoration and infrastructure projects.
+Technology could help finance the JPA, connect payors to the JPA, and provide digital platforms that connect funders to implementers. Blockchain and digital solutions have mostly been applied to reforestation and carbon sequestration projects. It could be possible to simply set up a digital marketplace, where funders and implementers connect to implement forest health restoration and infrastructure projects. Developing a platform for aggregated funding could be a portion of a funded project or developed in tandem, rather than on its own.
 
-Add project platform example.
+Fintech
 :::
+
+# Budget
+CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`summary`. 
+
+```{figure} /figures/summary.png
+:name: summary
+Three-year draft JPA budget showing revenue, expenses, and net. Note these are all estimated values. Contributions include passive income based on a \$1 mn seed-funded endowment. Figures include a 4% inflationary increase year-on-year to adjust for inflation and salary increases.
+```
+
+## Revenue
+The revenue estimates are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment). We've made a conservative estimate for the start-up endowment, but the number may be higher but not substantially, e.g., \$2 mn.
+
+Contributions include endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and corporations interested in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
+
+Revenue may also be derived from the feedstock supply insurance product being developed by members of the CALFRAME team and Ecostrat. Approximately half the startup funding could fund this mechanism or a parametric insurance model. These are in process, so more details will be provided once ready.
+
+Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
+
+
+
 
 On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
@@ -151,7 +202,7 @@ Expand explanation of these
 1. Distinguish between start-up vs. operational funds.
 2. Consider budget ramping
 3. Tie expenses to realistic revenues
-4. Consider temporal addition of non-traditional or higher risk revenue sources, but pilot them at a small scale first, then ramp up with success.
+4. Consider temporal addition of non-traditional or higher risk revenue sources, but pilot them at a small scale first, then increase with success.
 5. Fund a sort yard feasibility study.
 6. Consider a feasibility study to determine revenue from realistic to moon-shot possibilities.
 7. Examine insurance requirements and costs.
@@ -159,5 +210,4 @@ Expand explanation of these
 
 
 ```
-
 ```
