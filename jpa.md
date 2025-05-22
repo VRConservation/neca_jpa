@@ -150,13 +150,13 @@ Fintech
 :::
 
 # Budget
-CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`budget`. 
+CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region ({numref}`jpa-budget`). 
 
 ```{table} Three-year hypothetical JPA budget showing revenue and expenses. 
-:name: budget
+:label: jpa-budget
 
 | **ITEM**            | **YR1** | **YR2** | **YR3** | **TOTAL** |
-|--------------------:|--------:|--------:|--------:|----------:|
+|:--------------------|--------:|--------:|--------:|----------:|
 |                     |         |         |         |           |
 | **REVENUE**         |         |         |         |           |
 | Contributions       | 60,000  | 60,000  | 60,000  | 180,000   |
@@ -181,9 +181,6 @@ Revenue may also be derived from the feedstock supply insurance product being de
 
 Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
 
-
-
-
 On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
 ```{caution}
@@ -206,9 +203,11 @@ Other expenses include operations and maintenance, audit/legal fees, insurance, 
 # Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
 
-```{figure} /figures/gantt.png
-:name: budget
-GANTT timeline for the JPA startup period.
+```{table} GANTT timeline for the JPA startup period.
+:label: gantt
+
+
+
 ```
 
 # Recommendations
