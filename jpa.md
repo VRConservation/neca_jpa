@@ -152,11 +152,23 @@ Fintech
 # Budget
 CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region {numref}`budget`. 
 
-```{table} Three-year hyothetical JPA budget showing revenue and expenses. 
+```{table} Three-year hypothetical JPA budget showing revenue and expenses. 
 :name: budget
 
-
-
+| **ITEM**            | **YR1** | **YR2** | **YR3** | **TOTAL** |
+|--------------------:|--------:|--------:|--------:|----------:|
+|                     |         |         |         |           |
+| **REVENUE**         |         |         |         |           |
+| Contributions       | 60,000  | 60,000  | 60,000  | 180,000   |
+| Grants              | 60,000  | 120,000 | 150,000 | 330,000   |
+| Fee-for-Service     | 140,000 | 220,000 | 330,000 | 690,000   |
+| **TOTAL REVENUE**   | 260,000 | 400,000 | 540,000 | 1,200,000 |
+|                     |         |         |         |           |
+| **EXPENSES**        |         |         |         |           |
+| Labor               | 340,000 | 370,000 | 410,000 | 1,120,000 |
+| Operations          | 20,000  | 30,000  | 40,000  | 90,000    |
+| Outreach            | 2,000   | 3,000   | 4,000   | 9,000     |
+| **TOTAL EXPENSES**  | 362,000 | 403,000 | 454,000 | 1,219,000 |
 
 ```
 
