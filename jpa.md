@@ -1,5 +1,5 @@
 ---
-title: JPA Funding Strategies 🧙
+title: JPA Funding Strategies 🧙💲
 subject: Report
 subtitle: For woody feedstock aggregation entities in California
 short_title: Funding JPAs
@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
+  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California Biomass Supply Management Joint Powers Authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support wildfire mitigation authorities, such as Marin or JPAs, which help facilitate the utilization of wood from thinning projects. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is recommended.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -26,7 +26,7 @@ exports:
 ---
 
 # Background
-The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. resaerchers  found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand. 
+The large wildfire seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., the 1920s and 2010s. Researchers found that during the past century, tree densities increased up to sevenfold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created by high competition across tree stands, leading to less resilience to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 calls for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees while maintaining heterogeneity in the stand. 
 
 Cite the pile burning paper too?
 
@@ -45,11 +45,11 @@ JPA finance strategy is adapted from the effort to secure sustainable funding fo
 
 Paraphrased from the Governments Working Together manual: Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
 
-A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
+A joint powers authority (JPA) is a separate government organization created by the member agencies but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
 
 :::
 
-Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
+Partners developing the JPA are clear about the role of the organization acting as a critical entity for wood utilization, but it would not compete for funds with other organizations, especially RCDs or markets involving private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter presents a realistic and feasible revenue assessment suitable for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging due to the widely fluctuating changes in private and public funds.
 
 # Funding Options
 The abundance of state and federal funding of the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 clearly demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
