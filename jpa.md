@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
+  An analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) is introduced. JPA entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -24,32 +24,37 @@ exports:
   - format: docx
     output: exports/jpa.docx  
 ---
+# JPA Funding Strategies
 
-# Background
-The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. resaerchers  found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees, while maintaining heterogeneity in the stand. 
+## Background
+The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. researchers  found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat fire-suppressed stands with an ecological-based approach that reduces the total number of trees/acre, while maintaining stand heterogeneity. 
 
-Cite the pile burning paper too?
+## Concerns
+A significant cause for concern regarding the protection of old-growth forests in the United States is their drastic decline from historical levels due to logging and development, which threatens biodiversity and climate stability. https://doi.org/10.3389/ffgc.2022.979528 highlight the fact that a large proportion of the remaining mature and old-growth forests on federal lands are still vulnerable to logging. The loss of these forests would not only diminish biodiversity but also release substantial amounts of stored carbon into the atmosphere. This underscores the urgent need to protect old growth as a natural climate solution.
 
-Concerns for protecting mature and old growth ([Dellasalla 2022](https://doi.org/10.3389/ffgc.2022.979528)). Also cite https://doi.org/10.3389/ffgc.2025.1493879
+Further compounding these concerns is the lack of a coordinated and effective national policy for old-growth conservation. https://doi.org/10.3389/ffgc.2025.1493879 point to a history of policy debates and unfinalized amendments, such as the National Old-Growth Amendment, which have failed to provide lasting protection. The authors argue for a more comprehensive approach that moves beyond simple harvest restrictions to include landscape-level planning, the establishment of reserves, the protection of climate and fire refugia, and the setting of specific goals for the recovery of species that depend on these unique habitats. This highlights the necessity of a long-term, ecosystem-based strategy to ensure the recruitment of new old-growth forests and the recovery of their associated biodiversity.
 
-## Infrastructure & Capacity
-https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass were limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. 
+But let's be very clear, thinning dens stands of fire prone forests, is completely different from logging old growth. Furthermore, forest health treatments should not be one size fits all. Treating mixed conifer stands on the western slope of the Sierra Nevada requires different treatments than mesic forests in the Pacific Northwest. Managers should take steps to reduce fire risk, but still be required to consider negative impacts to biodiversity when planning any fire mitigation project.
 
-## JPA 
-Developing and creating the JPA is part of the Land Use and Climate Innovation (formerly OPR) funded California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot in the state's northeast corner. 
+## Feedstock aggregation
+Regardless of approach, thinned forests will create a lot of biomass and much of that biomass from forest health projects is ending up in burn piles or log decks without further utilization. Not only does this negate fire mitigation efforts, since burn piles and decks will promulgate or worsen fires, but the carbon from wood is at risk of not being sequestered.
 
-JPA finance strategy is adapted from the effort to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) created to improve forest product supply chain bottlenecks. Developing and creating the JPA is part of the Office of Planning and Research (OPR) funded California Forest Residual Aggregation for Market Enhancement (CALFRAME) pilot. See the Introduction for more information on CAL FRAME and Chapter 2 for a summary of the CLERE Inc. [JPA Report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) report to the Fall River Resource Conservation District.
+Processing biomass from thinning is challenging. https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass are limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. SIG recently completed a burn pile inventory across California showing massive tonnages of piles scattered through national forests and other lands. Yet burning those piles is likely more expensive that transporting them to a facility for processing ([Barker et al 2024](https://doi.org/10.3389/ffgc.2024.1496190)).
+
+Transportation subsidies to move this feedstock to central locations or nearby facilities could be a key missing component of the wildfire problem across the west. Creating Joint Powers Authorities in some regions, may be a solution to aggregate feedstock over large areas and provide it to process plants, mills, and other utilization entities.
+
+## Joint Powers Authority
+A joint powers authority (JPA) is a distinct government organization created when two or more public agencies agree to form a new legal entity to address a common issue. This authority is legally independent from its member agencies but shares powers common to them, which are defined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
 
 :::{important} What is a JPA?
 :class: dropdown
 
-Paraphrased from the Governments Working Together manual: Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
-
-A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
-
+A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)). Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
 :::
 
-Partners developing the JPA are clear in the role of the organization acting as a critical wood utilization entity, but that it would not compete for funds with other organizations, especially RCDs or markets with private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter takes a realistic, feasible revenue assessment appropriate for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging with widely fluctuating changes in private and public funds.
+A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and a [report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) from CLERE Inc. to the Fall River Resource Conservation District.
+
+In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding.
 
 # Funding Options
 The abundance of state and federal funding of the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 clearly demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
@@ -113,20 +118,21 @@ In general, the feasible options identified are traditional and similar to fundi
 3. The GANTT chart timeline includes testing, adopting, and implementing temporal finance mechanisms ({numref}`gantt`).
 
 ## Collaborative Finance
-[Collaborative finance](https://en.wikipedia.org/wiki/Collaborative_finance)
+[Collaborative finance](https://en.wikipedia.org/wiki/Collaborative_finance) is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers. This process may or may not include traditional financial institutions (collaborativefinance.org). The term can be broadened to include finance developed by fair and equitable participation of stakeholders in a region, landscape, or watershed to address natural resource and infrastructure management needs, utilizing multiple forms of funding from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds.[^1] 
+
+[^1]:For a deeper discussion of collaborative finance approaches to financing water infrastructure and fire mitigtation, see [Because It’s Worth It](https://www.americanrivers.org/wp-content/uploads/2021/04/Water-finance-paper-final-layout-3.pdf) and [Conservation Finance: Towards a new model for landscape restoration](https://confinance.info). 
 
 :::{seealso} New Funding Options
 :class: dropdown
 **New Finance Options**
-Conservation finance options include environmental impact bonds like Blue Forest’s Forest Resilience Bond, which leverages private investment from impact investors to support forest health projects, with repayment to investors over time supported by beneficiaries based on the savings and benefits from reduced wildfire risks and improved ecosystem services. The JPA could utilize environmental impact bonds on a trial basis at a small scale, then expand as successfully as desired by the JPA over an extended period. Identifying potential payor entities interested in paying for the avoided costs of wildfire with pro-active measures, such as thinning and prescribed fire, is worth pursuing immediately or as soon as the JPA hires an executive director. 
-We do not recommend solely relying on impact bonds since they take a lengthy time to develop and rely on a payor to provide avoided-cost funding. However, a bond could be a valuable complementary funding resource to other secured revenues.
+Conservation finance options include environmental impact bonds like Blue Forest’s Forest Resilience Bond, which leverages private investment from impact investors to support forest health projects, with repayment to investors over time supported by beneficiaries based on the savings and benefits from reduced wildfire risks and improved ecosystem services. A JPA could utilize environmental impact bonds on a trial basis at a small scale, then expand over an extended period. Identifying potential payor entities interested in paying for the avoided costs of wildfire with pro-active measures, such as thinning and prescribed fire, is worth pursuing immediately or as soon as the JPA hires an executive director. 
 
-**Collaborative Finance**
-Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers. This process may or may not include traditional financial institutions (collaborativefinance.org). The term can be broadened to include finance developed by fair and equitable participation of stakeholders in a region, landscape, or watershed to address natural resource and infrastructure management needs, utilizing multiple forms of funding from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. For a deeper discussion of collaborative finance approaches to financing water infrastructure in California, see Because It’s Worth It. The CALFRAME project has many aspects of collaboration that can be directed toward developing suitable public-private financing for restoration projects.
+We do not recommend solely relying on impact bonds since they take a lengthy time to develop and rely on a payor to provide avoided-cost funding. However, a bond could be a valuable complementary funding resource to other secured revenues. Other 'newer' finance options could include the following:
 
 **Carbon Markets**
 Carbon markets offer an opportunity for the JPA, its members, and Implementing Entities to secure gap or stack funding for on-the-ground forest management activities, such as thinning, pruning, mastication, mechanical treatment, and even prescribed burning. Revenue realized through the carbon market could help the JPA to treat more forest land than otherwise possible and generate additional biomass that could be put under supply contracts to support existing and emerging infrastructure. Market prices for carbon credits vary depending on a given project’s size and location, treatment type, and the carbon market or registry used. Carbon credits can be realized for projects of any size and located on federal, state, and private lands. See the Avoided Wildfire Emissions Protocol section as another approach that is easier to implement than carbon sequestration credits or markets since the avoided costs are already calculated, and proponents do not have to seek an entity to purchase the credits.
-National Forest Foundation implemented several voluntary carbon projects in California and the West following wildfires. Funded by corporate donors, the projects created carbon based on growth trajectories of planted trees. The credits were registered with the American Carbon Registry but immediately retired upon creation since trading carbon on public lands is disallowed.
+
+The National Forest Foundation implemented several voluntary carbon projects in California and the West following wildfires. Funded by corporate donors, the projects created carbon based on growth trajectories of planted trees. The credits were registered with the American Carbon Registry but immediately retired upon creation since trading carbon on public lands is disallowed.
 
 **Avoided Wildfire Emissions**
 Spatial Informatics Group and Element Markets developed a forecast methodology under the Climate Forward program to recognize the climate benefits associated with fuel treatment activities that lower the risk of catastrophic forest fires and their emissions. Known as the Avoided Wildfire Emissions Forecast Methodology, the Climate Action Reserve protocol could provide complementary funding for thinning and prescribed fire projects to grants and private investments. The Protocol differs from carbon offsets in that forecasted mitigation units (FMUs) are issued for forecasted greenhouse gas reductions or removals. FMUs are used to mitigate anticipated future emissions, such as wildfires. 
@@ -136,17 +142,18 @@ Although it may be several years from implementation, developing and marketing l
 
 **Revolving Loan Funds**
 Pooled funding sources such as impact bonds or revolving loan funds can help make a greater amount of funds available to more projects across a landscape. Typically offered at lower than market interest rates, revolving loan funds are self-replenishing pools of money utilizing principal and interest payments on existing loans to issue new loans. They have been used effectively on small to large scale to develop businesses, assist healthcare, and improve environmental outcomes. Revolving loan funds also provide much needed up front capital for project startup. They are flexible and can be used with more conventional funds such as grants and loans. 
+
 For example, through a coalition of public and private partners, the Southwest Wildfire Impact Fund intends to utilize resources from private investors and revenues from biomass generated from forest thinning to offset the financial burden for wildfire mitigation in the San Juan National Forest wildland-urban interface. The project fosters regional collaboration through shared project financing and implementation. It also creates the opportunity for scaling up forest treatments and fire reduction by creating a revolving loan fund that reinvests proceeds into additional projects, ensuring that capital is available for long-term re-treatment and expansion of forest health interventions.
+
 Blue Forest is operating a revolving loan fund called the California Wildfire Innovation Fund that could expand into broader support of other forest health entities.
 
 **Parametric Insurance**
 Parametric or index-based insurance covers the probability of a predefined event instead of indemnifying actual loss incurred (Swissre, 2018). These so-called trigger events are typically disaster (e.g., wildfire, flooding, hurricane, earthquake) related and measured through triggers such as wind speed, quake magnitude, acres burned/burn severity, or rainfall amount. Insurable triggers are modeled and must happen by chance. When the triggers are reached, a predetermined pay-out is made regardless of the sustained physical losses. Parametric insurance is meant to complement existing indemnity insurance but is increasingly used for post-disaster restoration funding in the natural world. 
+
 One of the earliest examples of parametric insurance use for nature recovery is the Mesoamerican Reef parametric insurance that provided $800,000 for reef restoration following Hurricane Delta. The trigger was windspeed with a parameter greater than 100 knots. The funds came from the Coastal Zone Management Trust (Winters, 2020). Using insurance to protect forests and communities, likely through wildfire risk mitigation, could be a novel way to fund the JPA’s activities throughout the region and provide complementary funds that could be particularly valuable post fire.
 
 **Tech-based Solutions**
 Technology could help finance the JPA, connect payors to the JPA, and provide digital platforms that connect funders to implementers. Blockchain and digital solutions have mostly been applied to reforestation and carbon sequestration projects. It could be possible to simply set up a digital marketplace, where funders and implementers connect to implement forest health restoration and infrastructure projects. Developing a platform for aggregated funding could be a portion of a funded project or developed in tandem, rather than on its own.
-
-Fintech
 :::
 
 # Budget
@@ -183,16 +190,15 @@ Grants in the budget will not compete with the RCDs. RCDs rely on various source
 
 On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
-```{caution}
-It is critical to incorporate into the JPA's bylaws and revenue-generating practices that grant fundraising does not compete with the RCDs in the region. It is possible the JPA may collaborate on a grant with one or more RCDs but should never submit grants for which an RCD qualifies.
+```{caution} JPA RCD competition
+:class: dropdown
+It is critical to incorporate into the JPA's bylaws and revenue-generating practices that grant fundraising does not compete with RCDs. It is possible a JPA may collaborate on a grant with one or more RCDs but should never submit grants for which an RCD qualifies.
 ```
 
-A contingency fund is written into the budget expense sheet as any annual surplus is invested into a contingency pool. Adding 10-15% contingency line items to any secured grant would supplement that funding, although most grant funding contingencies are to be applied to implementation budget shortfalls. Other contingency funding sources could come from unrestricted funding (contributions/gifts) and a higher indirect rate.
+Contingency funding should be written into the budget expenses. Adding 10-15% contingency line items to any secured grant would supplement that funding, although most grant funding contingencies are to be applied to implementation budget shortfalls. Other contingency funding sources could come from unrestricted funding (contributions/gifts) and a higher indirect rate.
 
 ## Expenses
-JPA partners originally estimated an average annual expense budget of ~\$ $400,000. The total expenses/year slowly ramp up each year of the budget with the idea that with additional secured revenue, the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards.
-
-The bulk of the expenses are for labor/staff, including an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services. Briefly, the staff responsibilities are the following:
+An annual expense budget of ~\$ $400,000 is estimated for the JPA startup. The total expenses/year slowly ramp up each year of the budget with the idea that with additional secured revenue, the JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards. The bulk of the expenses are for labor/staff, including an executive director, contracted feedstock manager, administrative bookkeeper, and various contracted services. Briefly, the staff responsibilities are the following:
 
 - **Executive Director**. Manage board of directors, lead program development/outreach/education/fundraising/communications, develop an annual budget, manage contracts, recruit and manage staff.
 - **Administrative Bookkeeper**. Track/invoice budget, develop cost allocation plan, manage grant reporting, administer payroll, manage AP/AR accounts, prepare 1099s and tax docs, develop grant budgets, and ensure financial compliance.
@@ -203,7 +209,7 @@ Other expenses include operations and maintenance, audit/legal fees, insurance, 
 # Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
 
-```{table} GANTT timeline for the JPA startup period.
+```{table} Timeline for the JPA startup period.
 :label: gantt
 
 | **Task**                  | **Sub-task**               | **2025** | **2026** | **2027** | **2028** | **2029** | **2030** |
@@ -232,7 +238,3 @@ Expand explanation of these
 6. Consider a feasibility study to determine revenue from realistic to moon-shot possibilities.
 7. Examine insurance requirements and costs.
 8. As revenue is secured, refine the budget and create a more detailed operating budget
-
-
-```
-```
