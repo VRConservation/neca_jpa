@@ -12,11 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: forest health, JPA, finance
 abstract: |
-<<<<<<< HEAD
   An analysis and strategy to secure sustainable funding for the proposed Northeast California biomass supply management joint powers authority (JPA) is introduced. JPA entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to pay for wildfire mitigation authorities like Marin or JPAs that help make it easier to utilize the wood from thinning projects. A portfolio approach of securing public and private funding and securing self-sustaining revenue sources is recommended.
-=======
-  We introduce an analysis and strategy to secure sustainable funding for the proposed Northeast California Biomass Supply Management Joint Powers Authority (JPA). These entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for the JPAs for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation (LUCI). Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support wildfire mitigation authorities, such as Marin or JPAs, which help facilitate the utilization of wood from thinning projects. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is recommended.
->>>>>>> 763198554d20253b65e72ed65fd2ccdf6f4ba742
 kernelspec:
   name: python3
   display_name: Python 3
@@ -30,13 +26,8 @@ exports:
 ---
 # JPA Funding Strategies
 
-<<<<<<< HEAD
 ## Background
 The large wildfires seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., 1920s and 2010s. researchers  found that during the past century tree densities increased up to seven fold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created from high competition across trees leading stands to be less resilient to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 call for an aggressive approach to treat fire-suppressed stands with an ecological-based approach that reduces the total number of trees/acre, while maintaining stand heterogeneity. 
-=======
-# Background
-The large wildfire seasons of the past five years have been catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, they are not unprecedented in recent California history and are usually associated with periods of drought, e.g., the 1920s and 2010s. Researchers found that during the past century, tree densities increased up to sevenfold while average tree size decreased 50% in the Sierra Nevada ([North 2022](https://doi.org/10.1016/j.foreco.2021.120004)). A chronic level of stress is created by high competition across tree stands, leading to less resilience to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 calls for an aggressive approach to treat overgrown stands with ecological-based approaches to reduce the number of trees while maintaining heterogeneity in the stand. 
->>>>>>> 763198554d20253b65e72ed65fd2ccdf6f4ba742
 
 ## Concerns
 A significant cause for concern regarding the protection of old-growth forests in the United States is their drastic decline from historical levels due to logging and development, which threatens biodiversity and climate stability. https://doi.org/10.3389/ffgc.2022.979528 highlight the fact that a large proportion of the remaining mature and old-growth forests on federal lands are still vulnerable to logging. The loss of these forests would not only diminish biodiversity but also release substantial amounts of stored carbon into the atmosphere. This underscores the urgent need to protect old growth as a natural climate solution.
@@ -58,22 +49,12 @@ A joint powers authority (JPA) is a distinct government organization created whe
 :::{important} What is a JPA?
 :class: dropdown
 
-<<<<<<< HEAD
 A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)). Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
 :::
 
 A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and a [report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) from CLERE Inc. to the Fall River Resource Conservation District.
 
 In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding.
-=======
-Paraphrased from the Governments Working Together manual: Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
-
-A joint powers authority (JPA) is a separate government organization created by the member agencies but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
-
-:::
-
-Partners developing the JPA are clear about the role of the organization acting as a critical entity for wood utilization, but it would not compete for funds with other organizations, especially RCDs or markets involving private entities such as sawmills and licensed timber operators (LTOs). The approach outlined in this chapter presents a realistic and feasible revenue assessment suitable for the region. It provides a hypothetical operating budget for running the JPA during the startup's first five years. Creating a stably funded JPA will be challenging due to the widely fluctuating changes in private and public funds.
->>>>>>> 763198554d20253b65e72ed65fd2ccdf6f4ba742
 
 # Funding Options
 The abundance of state and federal funding of the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 clearly demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
