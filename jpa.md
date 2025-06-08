@@ -44,7 +44,7 @@ Processing biomass from thinning is challenging. https://doi.org/10.1093/jof/109
 Transportation subsidies to move this feedstock to central locations or nearby facilities could be a key missing component of the wildfire problem across the west. Creating Joint Powers Authorities in some regions, may be a solution to aggregate feedstock over large areas and provide it to process plants, mills, and other utilization entities.
 
 ## Joint Powers Authority
-A joint powers authority (JPA) is a distinct government organization created when two or more public agencies agree to form a new legal entity to address a common issue. This authority is legally independent from its member agencies but shares powers common to them, which are defined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
+A joint powers authority (JPA) is a government organization created when two or more public agencies agree to form a new legal entity to address a common issue. This authority is legally independent from its member agencies but shares powers common to them, which are defined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
 
 :::{important} What is a JPA?
 :class: dropdown
@@ -52,7 +52,7 @@ A joint powers authority (JPA) is a distinct government organization created whe
 A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)). Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
 :::
 
-A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and the report from CLERE Inc. to the Fall River Resource Conservation District {cite:p}`clere`.
+An example of a JPA being developed for feedstock aggregation is located in the state's northeast corner. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Office of Land Use and Climate Innovation. The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and the report from CLERE Inc. to the Fall River Resource Conservation District {cite:p}`clere`.
 
 **CHANGE THE CLERE CITATION IN THE PREVIOUS SENTENCE**
 
