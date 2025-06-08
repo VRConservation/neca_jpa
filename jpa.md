@@ -1,6 +1,6 @@
 ---
 title: JPA Funding Strategies 🧙💲
-subject: Report
+subject: Funding Forest Health
 subtitle: For woody feedstock aggregation entities in California
 short_title: Funding JPAs
 authors:
@@ -41,26 +41,24 @@ Regardless of approach, thinned forests will create a lot of biomass and much of
 
 Processing biomass from thinning is challenging. https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass are limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. SIG recently completed a burn pile inventory across California showing massive tonnages of piles scattered through national forests and other lands. Yet burning those piles is likely more expensive that transporting them to a facility for processing ([Barker et al 2024](https://doi.org/10.3389/ffgc.2024.1496190)).
 
-Transportation subsidies to move this feedstock to central locations or nearby facilities could be a key missing component of the wildfire problem across the west. Creating Joint Powers Authorities in some regions, may be a solution to aggregate feedstock over large areas and provide it to process plants, mills, and other utilization entities.
+Transportation subsidies to move this feedstock to central locations or nearby facilities could be a key missing component of the wildfire problem across the west. 
 
 ## Joint Powers Authority
-A joint powers authority (JPA) is a government organization created when two or more public agencies agree to form a new legal entity to address a common issue. This authority is legally independent from its member agencies but shares powers common to them, which are defined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
+Creating Joint Powers Authorities (JPA) in some regions, may be a solution to aggregate feedstock over large areas and provide it to process plants, mills, and other utilization entities. JPAs could act to broker long-term contracts between suppliers and processors and help to drive investment in processing facilities. Most lenders and investors view wood product businesses as too risky without a minimum term contract of at 10 years, preferably longer {cite:p}`clere`. As an example the USDA Forest Service, that manages 60% of California's forests, only allows a maximum of five years for feedstock supply contract [CSG 2020](https://drive.google.com/file/d/1wPsETRE7AewydAGzFuuZoFvQkKNaFh6r/view).
 
 :::{important} What is a JPA?
 :class: dropdown
 
-A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)). Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
+Joint Powers Authorities are legally created entities that allow two or more public agencies to jointly exercise common powers [deSousa 2016](https://bbklaw.com/resources/the-ins-and-outs-of-joint-powers-authorities-in-california). A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)).
 :::
 
 An example of a JPA being developed for feedstock aggregation is located in the state's northeast corner. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Office of Land Use and Climate Innovation. The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and the report from CLERE Inc. to the Fall River Resource Conservation District {cite:p}`clere`.
 
-**CHANGE THE CLERE CITATION IN THE PREVIOUS SENTENCE**
+**Biomass insurance from Ecostrat? How does this generate revenue? https://ecostrat.com/feedstock-supply-insurance**
 
-Biomass insurance from Ecostrat? How does this generate revenue?
+In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding. But how can such an entity be funded in rural counties with low tax-bases that cannot support a sales tax increase.[^mwpa]
 
-https://ecostrat.com/feedstock-supply-insurance
-
-In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding.
+[^mwpa]: JPAs similar to the Marin Wildfire Prevention Authority, funded through sales tax increase, aren't possible in northeastern California where a low tax base and few people cannot generate the same income as a more densely populated county such as Marin.
 
 # Funding Options
 The abundance of state and federal funding of the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 clearly demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
