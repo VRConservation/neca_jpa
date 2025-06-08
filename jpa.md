@@ -52,9 +52,13 @@ A joint powers authority (JPA) is a distinct government organization created whe
 A joint powers authority (JPA) is a separate government organization created by the member agencies, but is legally independent from them. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement ([Governments Working together, 2021](https://sgf.senate.ca.gov/sites/sgf.senate.ca.gov/files/GWTFinalversion2.pdf)). Joint powers are exercised when the public officials of greater than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation.
 :::
 
-A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and a [report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) from CLERE Inc. to the Fall River Resource Conservation District.
+A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and the report from CLERE Inc. to the Fall River Resource Conservation District {cite:p}`clere`.
 
 **CHANGE THE CLERE CITATION IN THE PREVIOUS SENTENCE**
+
+Biomass insurance from Ecostrat? How does this generate revenue?
+
+https://ecostrat.com/feedstock-supply-insurance
 
 In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding.
 
@@ -161,7 +165,7 @@ Technology could help finance the JPA, connect payors to the JPA, and provide di
 # Budget
 CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region ({numref}`jpa-budget`). 
 
-```{table} Three-year hypothetical JPA budget showing revenue and expenses. 
+:::{table} Three-year hypothetical JPA budget showing revenue and expenses. 
 :label: jpa-budget
 
 | **ITEM**            | **YR1** | **YR2** | **YR3** | **TOTAL** |
@@ -179,18 +183,14 @@ CAL FRAME partners estimated an approximate annual budget averaging \$400,000 du
 | Outreach            | 2,000   | 3,000   | 4,000   | 9,000     |
 | **TOTAL EXPENSES**  | 362,000 | 403,000 | 454,000 | 1,219,000 |
 
-```
+:::
 
 ## Revenue
 The revenue estimates are based on a startup endowment of \$1 million, regular indirect costs to cover operating from grants, and significant fee-for-service to forest landowners and possibly fees charged for use of wood from a sort yard. Ideally, the goal would be a stable revenue source to cover staff salaries and operational costs. It may be that a multi-year campaign is needed to get to a minimum level (\$2 million is suggested since that could generate ~\$100,000 annually as an endowment). We've made a conservative estimate for the start-up endowment, but the number may be higher but not substantially, e.g., \$2 mn.
 
 Contributions include endowment, passive income, gifts, and member contributions. Contributions and gifts may come from local to regional foundations and corporations interested in the forest health world. Individual contributions always have the potential to add up to more than foundation and corporate gifts but take more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for the JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
 
-Revenue may also be derived from the feedstock supply insurance product being developed by members of the CALFRAME team and Ecostrat. Approximately half the startup funding could fund this mechanism or a parametric insurance model. These are in process, so more details will be provided once ready.
-
-Grants in the budget will not compete with the RCDs. RCDs rely on various sources' grants to carry out their work, cover staff salaries, and keep the lights on at the office. Grant resources are limited, so a new entity such as the JPA cannot compete for those funds in any way.
-
-On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
+Although not competing for grants with RCDs a JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
 ```{caution} JPA - RCD competition
 :class: dropdown
@@ -211,7 +211,7 @@ Other expenses include operations and maintenance, audit/legal fees, insurance, 
 # Timeline
 An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the Local Agency Formation Commission (LAFCO) filing is completed.
 
-```{table} Timeline for the JPA startup period.
+:::{table} Timeline for the JPA startup period.
 :label: gantt
 
 | **Task**                  | **Sub-task**               | **2025** | **2026** | **2027** | **2028** | **2029** | **2030** |
@@ -227,7 +227,7 @@ An approximate timeline for key activities to fund and operationalize the JPA is
 | **3. Governance**         | JPA bylaws                 | X        | X        |          |          |          |          |
 |                           | LAFCO filing               | X        |          |          |          |          |          |
 
-```
+:::
 
 # Recommendations
 Expand explanation of these
