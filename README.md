@@ -1,3 +1,7 @@
 # Northeast California JPA
 
-Strategy for funding the Northeast California Joint Powers Authority for woody biomass aggregation.
+Woody biomass aggregation Joint Powers Authority funding strategy. Full article at [JPA Funding](http://3point.xyz/neca_jpa).
+
+## Takeaways
+
+## Recommendations
