@@ -54,6 +54,8 @@ A joint powers authority (JPA) is a separate government organization created by 
 
 A JPA is being applied in the state's northeast corner to improve forest product supply chain bottlenecks. The development of this specific JPA is a key component of the **California Forest Residual Aggregation for Market Enhancement (CAL FRAME) pilot**, funded by the Land Use and Climate Innovation office (formerly the Office of Planning and Research). The finance strategy for the JPA is adapted from this broader effort, with more detail available in the CAL FRAME introduction and a [report](https://bof.fire.ca.gov/media/sbvcxfiy/cal-frame-jpa-noreast-opr-pilot_final-may122023.pdf) from CLERE Inc. to the Fall River Resource Conservation District.
 
+**CHANGE THE CLERE CITATION IN THE PREVIOUS SENTENCE**
+
 In establishing the JPA, partners have been clear about its role: to act as a critical wood utilization entity without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding.
 
 # Funding Options
@@ -190,7 +192,7 @@ Grants in the budget will not compete with the RCDs. RCDs rely on various source
 
 On the other hand, the JPA may help administer a large grant across multiple RCDs to leverage more funds across a region. With the devolution of some state funding sources, this could be a great option to manage those funds and reduce the competition for funding resources since the grants solely go to local organizations. The fee-for-service section includes an item for grant administration. It also includes an option for implementing landowner forest plans since this may be a viable revenue source and may help source wood for the JPA. A sort yard that the JPA manages to source, centralize, and sell woody biomass is another revenue option but will require investment to be successful. Expenses for the sort yard are included in the expenses section.
 
-```{caution} JPA RCD competition
+```{caution} JPA - RCD competition
 :class: dropdown
 It is critical to incorporate into the JPA's bylaws and revenue-generating practices that grant fundraising does not compete with RCDs. It is possible a JPA may collaborate on a grant with one or more RCDs but should never submit grants for which an RCD qualifies.
 ```
@@ -207,7 +209,7 @@ An annual expense budget of ~\$ $400,000 is estimated for the JPA startup. The t
 Other expenses include operations and maintenance, audit/legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website, outreach and equipment, insurance, and land lease costs for a sort yard.
 
 # Timeline
-An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the LAFCO filing is completed.
+An approximate timeline for key activities to fund and operationalize the JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of the JPA bylaws will define governance, and the JPA will created when the Local Agency Formation Commission (LAFCO) filing is completed.
 
 ```{table} Timeline for the JPA startup period.
 :label: gantt
