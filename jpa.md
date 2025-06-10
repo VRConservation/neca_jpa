@@ -1,5 +1,5 @@
 ---
-title: JPA Funding Strategies 🧙💲
+title: JPA Funding Strategies 💲
 subject: Funding Forest Health
 subtitle: For woody feedstock aggregation entities in California
 short_title: Funding JPAs
@@ -44,7 +44,7 @@ Processing biomass from thinning is challenging. https://doi.org/10.1093/jof/109
 
 Transporting the feedstock to a central location, accessible and central to processors, biomass facilities, and wood product businesses would help move the biomass out of the woods, mitigating fire risk, but centralizing where long-term feedstock contracts can be brokered with landowners and managing agencies. For instance, Regenerative Forest Solutions(https://www.regenerativeforestsolutions.org) identified approximately half (242,365 acres) of Sonoma County's forested acres as feasible to treat (excludes waterways, slopes above 45%, and material that is not within sufficient proximity to roadways). As shown in {numref}`sonoma` Berry's Sawmill in western Sonoma as an ideal location for a wood products campus and aggregation yard [Costa 2025](https://www.regenerativeforestsolutions.org/resourcesandreports/full-study-assessing-the-viability-of-wood-recovery-and-utilization-in-sonoma-county). Creating similar management entities across the west could make it easier for investor due diligence and cross multiple landscape and jurisdictional boundaries. Joint Powers Authorities may be an organizational template that can meet these needs.
 
-:::{figure} ../images/sonoma.jpg
+:::{figure} images/sonoma.jpg
 :name: sonoma 
 Feasible treatment areas of Sonoma County and location of Berry Sawmill as an feedstock aggregation site  (adapted from [Griffith and Tukman 2022](https://storymaps.arcgis.com/stories/d176adc01bcf465ab846a7d93e1d625c)).
 :::
