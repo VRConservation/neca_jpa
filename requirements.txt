@@ -1,4 +1,4 @@
-# To execute the code in our notebook
+# To execute the code in notebooks
 altair
 
 # To interactively browser Jupyter content with MyST
