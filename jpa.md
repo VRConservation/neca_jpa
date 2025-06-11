@@ -10,9 +10,9 @@ authors:
       - Forest Business Alliance
     email: vance@3point.xyz
 license: CC-BY-4.0
-keywords: forest health, JPA, finance
+keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support wildfire mitigation authorities, such as Marin or JPAs, which help facilitate the utilization of wood from thinning projects. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is recommended.
+  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to create to improve forest product supply chain bottlenecks. An estimated $1.5 mn is needed to start up and run the Northeast California JPA over three years. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support wildfire mitigation authorities, such as Marin or JPAs, which help facilitate the utilization of wood from thinning projects. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is among several recommendations.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -45,9 +45,9 @@ But let's be very clear: thinning dense stands of fire-prone forests is complete
 
 Managers implementing forest health treatments should adopt a tailored approach to increase forest resilience, mitigate fire risk, and bring stands within a natural range of variation.[^bohlman] Treating mixed conifer stands on the western slope of the Sierra Nevada requires different treatments than mesic forests in the Pacific Northwest. Managers should take steps to reduce fire risk while still considering the negative impacts on biodiversity when planning any fire mitigation project.
 
-[^bohlman]: see [@bohlman].
+[^bohlman]: See [@bohlman].
 
-## Feedstock aggregation
+## Feedstock Aggregation
 Thinned forests create a lot of biomass, and much of that biomass from forest health projects end up in burn piles or log decks and may stay in these locations indefinitely. Not only does this negate fire mitigation efforts, as burn piles and decks can promote or worsen fires, but the carbon from wood is also at risk of not being sequestered.
 
 Processing biomass from thinning is challenging; https://doi.org/10.3390/en14092696 found that the cost of forest restoration far exceeds current market prices for biomass. https://doi.org/10.1093/jof/109.4.208 point out that supply guarantees, industry presence, transportation, and the value of the biomass are limiting to biomass utilization, whereas agency staffing, budgets, compliance, and partnership aggravated use rather than impeding progress. SIG recently completed a burn pile inventory across California, showing massive tonnages of piles scattered through national forests and other lands. Yet burning those piles is likely more expensive than transporting them to a facility for processing ([Barker et al 2024](https://doi.org/10.3389/ffgc.2024.1496190)). Transportation subsidies to move this feedstock to central locations or nearby facilities could be a crucial missing component in addressing the wildfire problem across the western United States. 
@@ -223,7 +223,7 @@ An annual expense budget of ~\$ $400,000 is estimated for a JPA startup. The tot
 
 Other expenses include operations and maintenance, audit and legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website development, outreach, equipment, insurance, and land lease costs for a sort yard.
 
-# Timeline
+## Timeline
 An approximate timeline for key activities to fund and operationalize a JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of JPA bylaws will define governance, and  JPA will created when the Local Agency Formation Commission (LAFCO) filing is completed.
 
 :::{table} Timeline for a theoretical JPA startup period.
