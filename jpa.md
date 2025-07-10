@@ -267,4 +267,4 @@ Funding JPAs is not a simple task, as most public funding sources are focused on
 7. **Use the right revenue source**. Property and sales tax increases are more effective in populated areas with higher incomes; however, they are usually not appropriate for disadvantaged rural areas, where the tax base and population tend to be too low to provide sufficient funding.
 
 # Acknowledgements
-A special thank you to Joshua Harrison, Center for the Study of the Force Majeure, and Temra Costa, Forestree Collective, for reviewing the draft manuscript.
+A special thank you to Joshua Harrison, Center for the Study of the Force Majeure, and Temra Costa, Forestree Collective, for reviewing the draft manuscript. Thank you to the entire CAL FRAME team for ideas, edits, and development of the CAL FRAME report to the Office of Land Use and Climate Innovation.
