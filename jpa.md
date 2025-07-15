@@ -26,7 +26,7 @@ exports:
 ---
 
 # JPA Funding Strategies
-Joint Powers Authorities (JPAs) are proposed as a solution for feedstock aggregation in California to broker agreements with forest landowners and managers and create long-term supply contracts to increase investor support for wood products businesses. Funding these entities presents challenges, given the difficulties of securing grants and private investments. Creating a diversified funding portfolio is crucial, especially for new entities, and suggestions for achieving this are provided.
+Joint Powers Authorities (JPAs) are proposed as a solution in California to broker agreements with forest landowners and managers and create long-term supply contracts to increase investor support for wood products businesses. Funding these entities presents challenges, given the difficulties of securing grants and private investments. Creating a diversified funding portfolio is crucial, especially for new entities, and suggestions for achieving this are provided.
 
 ## Takeaways
 1. **Portfolio strategy**. Be strategic about what funds you utilize for different projects and programs. Look to foundations and business support grants for organizational startup or administrative costs. Still, there are implementation grants for field projects and private or bank loans for scaling once a feedstock aggregation entity is established.
@@ -67,7 +67,9 @@ Feasible treatment areas of Sonoma County and the location of Berry Sawmill as a
 :::
 
 ## Joint Powers Authority
-One of the key problems to biomass utilization is the creation of long-term, e.g., greater than 5 years, feedstock supply contracts. The lack of long-term contracts makes investment in wood utilization businesses as risky. Creating JPAs in some regions may be a solution to address this market problem. JPAs could act as brokers to facilitate long-term contracts between suppliers and processors, thereby driving investment in processing facilities. Most lenders and investors view wood product businesses as too risky without a minimum term contract of 10 years, preferably longer [@clere]. For example, the USDA Forest Service, which manages 60% of California's forests, typically allows a maximum of five years for a feedstock supply contract [@CSG]. In addition to potentially resolving this problem, JPAs also have the following benefits that may help drive economic development (@darlington):
+Creating One of the key problems to biomass utilization is the creation of long-term, e.g., greater than 5 years, feedstock supply contracts. The lack of long-term contracts makes investment in wood utilization businesses risky. Creating JPAs in some regions may be a solution to address this issue. JPAs could act as brokers to facilitate long-term contracts between suppliers and processors, thereby driving investment in processing facilities. Most lenders and investors view wood product businesses as too risky without a minimum term contract of 10 years, preferably longer [@clere]. For example, the USDA Forest Service, which manages 60% of California's forests, typically allows a maximum of five years for a feedstock supply contract [@CSG].
+
+In addition to potentially resolving this problem, JPAs also have the following benefits that may help drive economic development [@darlington]:
 
 - Shared risk mitigation
 - Improved service delivery, including contract development/management for third parties
