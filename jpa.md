@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to improve forest product supply chain bottlenecks. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is among several recommendations.
+  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to improve forest product supply chain bottlenecks. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is among several recommendations. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources may provide a more secure approach to long-term organizational stability.
 kernelspec:
   name: python3
   display_name: Python 3
