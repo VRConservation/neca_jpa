@@ -67,7 +67,13 @@ Feasible treatment areas of Sonoma County and the location of Berry Sawmill as a
 :::
 
 ## Joint Powers Authority
-Creating JPAs in some regions may be a solution to aggregate feedstock over large areas and provide it to process plants, mills, and other utilization entities. JPAs could act as brokers to facilitate long-term contracts between suppliers and processors, thereby driving investment in processing facilities. Most lenders and investors view wood product businesses as too risky without a minimum term contract of 10 years, preferably longer [@clere]. For example, the USDA Forest Service, which manages 60% of California's forests, typically allows a maximum of five years for a feedstock supply contract [@CSG].
+One of the key problems to biomass utilization is the creation of long-term, e.g., greater than 5 years, feedstock supply contracts. The lack of long-term contracts makes investment in wood utilization businesses as risky. Creating JPAs in some regions may be a solution to address this market problem. JPAs could act as brokers to facilitate long-term contracts between suppliers and processors, thereby driving investment in processing facilities. Most lenders and investors view wood product businesses as too risky without a minimum term contract of 10 years, preferably longer [@clere]. For example, the USDA Forest Service, which manages 60% of California's forests, typically allows a maximum of five years for a feedstock supply contract [@CSG]. In addition to potentially resolving this problem, JPAs also have the following benefits that may help drive economic development (@darlington):
+
+- Shared risk mitigation
+- Improved service delivery, including contract development/management for third parties
+- Cost-sharing, grant pursuit, and shared staffing
+- Enhanced coordination among participating agencies, cities, and counties
+- Jointly established bonds, debt and insurance tools, and public infrastructure finance
 
 :::{important} What is a JPA?
 :class: dropdown
