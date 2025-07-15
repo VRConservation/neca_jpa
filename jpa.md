@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to improve forest product supply chain bottlenecks. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support wildfire mitigation authorities, such as Marin or JPAs, which help facilitate the utilization of wood from thinning projects. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is among several recommendations.
+  An analysis and strategy for securing sustainable funding for joint powers authorities (JPAs) as woody feedstock aggregators is introduced. JPA entities are proposed to improve forest product supply chain bottlenecks. Startup funding for each of the pilots is being funded by the California Governor's Office for Land Use and Climate Innovation. Long-term, sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. A portfolio approach to securing public and private funding, as well as self-sustaining revenue sources, is among several recommendations.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -74,9 +74,9 @@ Creating JPAs in some regions may be a solution to aggregate feedstock over larg
 Joint Powers Authorities are legally created entities that allow two or more public agencies to jointly exercise common powers [@desousa]. A joint powers authority shares powers common to the member agencies, and those powers are outlined in the joint powers agreement. Joint powers are exercised when the public officials of more than two agencies agree to create another legal entity or establish a joint approach to work on a common problem, fund a project, or act as a representative body for a specific activity. Examples of areas where JPAs are used commonly include groundwater management, road construction, and habitat conservation [@gwt].
 :::
 
-An example of a JPA being developed for feedstock aggregation is located in the northeastern corner of the state. The development of this specific JPA is a key component of the California Forest Residual Aggregation for Market Enhancement (CALFRAME) pilot, funded by the Office of Land Use and Climate Innovation. The finance strategy for a JPA is adapted from this broader effort, with more detail available from @clere.
+Developing JPAs as a management entity for feedstock aggregation is a key component of the California Forest Residual Aggregation for Market Enhancement (CALFRAME) pilot, funded by the Office of Land Use and Climate Innovation. This funding strategy for a JPA is adapted from this broader effort, with more detail available from @clere.
 
-In establishing the JPA, partners have been clear about its role: to act as a critical entity for wood utilization without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding. But how can such an entity be funded in rural counties with low tax bases that cannot support a sales tax to develop sustainable revenue for a new entity?[^mwpa]
+JPA establishment is at different levels across the state. During establishment or modifying existing JPAs, partners have been clear about its role: to act as a critical entity for wood utilization without competing for funds with other organizations, such as Resource Conservation Districts (RCDs), sawmills, or licensed timber operators (LTOs). This approach requires a realistic revenue assessment and a plan for the initial five years of operation, acknowledging that creating a stably funded JPA will be challenging given the wide fluctuations in private and public funding. But how can such an entity be funded in rural counties with low tax bases that cannot support a sales tax to develop sustainable revenue for a new entity?[^mwpa]
 
 :::{important} LTOs and RCDs role in forest management
 :class: dropdown
@@ -87,22 +87,22 @@ In establishing the JPA, partners have been clear about its role: to act as a cr
 
 :::
 
-[^mwpa]: JPAs similar to the Marin Wildfire Prevention Authority, funded through sales tax increase, aren't possible in northeastern California where a low tax base and few people cannot generate the same income as a more densely populated county such as Marin.
+[^mwpa]: JPAs similar to the Marin Wildfire Prevention Authority, funded through a county-wide sales tax increase, aren't possible in rural areas with low tax bases.
 
 # Funding Options
-The abundance of state and federal funding over the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 demonstrate the vulnerability of relying too heavily on grant funding. Many nonprofits are familiar with the cyclic nature of many funding sources.
+The abundance of state and federal funding over the past five years has meant many agencies and organizations depend on grant funding for implementing restoration and infrastructure projects. Trump administration cuts in 2025 or the periodic surplus/deficit of California state funding demonstrate the vulnerability of relying too heavily on grant funding. Many organizations are familiar with the cyclic nature of many funding sources and want to create more dependable, even-keeled funding streams, although grants can often complement stable revenue sources.
 
 ## Traditional
-The Northeast California feedstock aggregation project recognized the need for grant funding to initiate a JPA and acknowledged the need for additional funding sources that can sustainably support a JPA over time. These are described below and with the pluses and minuses of each summarized in ({numref}`funding`).
+Many of the Office of Land Use and Climate Innovation feedstock aggregation pilots recognized the need for long-term funding sources and that grants are not a dependable resource to maintain an organization over time. Traditional funding sources are many and a blended portfolio should help weather changes in grant cycles and tap into funding sources that can provide steady revenue. These options are described below and with the pluses and minuses of each summarized in ({numref}`funding`). Other revenue sources such as climate bond funding, agency funding, and legislative action are additional revenue sources, but their outcomes tend to be grant-based and temporary.
 
 1. **Endowment**. In the case of the feedstock aggregation pilots the Office of Land Use and Climate Change Innovation provided a funding tranche for entity startup. This funding could be used to create an endowment, or at least seed an endowment that could provide a steady source of unrestricted revenue, if invested wisely. Other JPAs could do the same with an initial foundation grant or a campaign to raise sufficient funds to start an endowment.
 2. **Contributions**. Regardless of starting an endowment, a capital campaign to raise awareness about a JPA and generate individual, corporate, and foundation grants would complement any secured public funds. In fact match from non public sources often makes grant applications more competitive. A strong JPA strategy that outlines the mission, programs, and projects is critical to focus funding requests and, the same for any grant application, prioritizes which funding to pursue ([Forest Business Alliance](https://forestbiz.info/chapters/program.html)).
 3. **Federal and State Grants**. It is unlikely that a JPA will receive operational funding from state and federal grants, but any proposals it leads or participates in could charge overhead (~10%) plus directly bill salaries to cover some operating costs. A negotiated indirect cost rate agreement, or NICRA, to increase this value through pulbic grants could be another long-term strategy to boost operating cost revenues.
-4. **Member Contributions**. In the case of Northeast California pilot, members, such as RCDs, pay an annual cost participate in the program. 
+4. **Member Contributions**. JPA members or beneficiaries, such as RCDs, pay an annual cost to participate in the feedstock aggregation program. 
 5. **Fee for Service**. Western Shasta RCD, for example, works with nonindustrial forest owners and provides services for forest management plans with small forested landowners. The State can fund the development of forest management plans for private landowners. A JPA could offer similar services as long as it does not compete with RCDs in the region.
-6. **Sort yards**. Managing a sort yard for aggregated feedstock would be a strategic revenue source. This would require a substantial investment in equipment and a suitable site. A feasibility study would help understand the total costs, potential revenue, and risk reduction associated with the yard.
+6. **Sort yards**. Managing a sort yard for aggregated feedstock could be a strategic revenue source. Note that feedstock aggregation and sort yards should not be conflated nor should creation of JPAs be equated to sort yard management. A sort yard may be one strategy for income generation and typically not connected to JPA creation or necessary to fund it.
 
-:::{list-table} Analysis of funding types appropriate to aggregation JPAs. Timing roughly refers to the amount of time required to generate income. Difficulty is a qualitative scale ranging from 1 (easiest to secure) to 5 (most difficult).
+:::{list-table} Analysis of funding types appropriate to aggregation JPAs. Timing roughly refers to the amount of time required to generate income. Difficulty is a qualitative scale ranging from 1 (easiest to secure) to 5 (most difficult). Note that sort yards are not to be conflated with JPA creation or feedstock aggregation.
 :header-rows: 1
 :label: funding
 
@@ -139,7 +139,7 @@ The Northeast California feedstock aggregation project recognized the need for g
 * - Sort Yard
   - Steady income, demand for wood high
   - Transportation costs, management, long-term supply
-  - Permitting and capacity building may take a long time
+  - Permitting and capacity building take time. 
   - 4      
 :::
 
@@ -151,6 +151,8 @@ In general, the feasible options identified are traditional and similar to fundi
 
 ## Collaborative Finance
 Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers ([Russell and Odefey 2024](https://confinance.info)). This process may or may not include traditional financial institutions.[^collabo] The term can be broadened to include finance developed through the fair and equitable participation of stakeholders in a region, landscape, or watershed, addressing natural resource and infrastructure management needs, and utilizing multiple forms of funding, from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. 
+
+As noted in the temporal adoption section, the challenge of new finance options vs. more traditional approaches is, simply put, they're new. As a result, more conservative controllers, accountants, and similar financial managers at any organization will be resistant to implementing new, unproven ways to generate income. As a result, it may be best to start strong with traditional approaches and gradually test new approaches. Feasibility studies may also help introduce collaborative finance and new approaches. However, there are examples of established and successful impact finance bonds on the North Yuba River to point to when creating more novel funding streams.
 
 [^collabo]: See [collaborative finance](collaborativefinance.org) for more information.
 
@@ -189,27 +191,9 @@ The technology could help connect funders to a new JPA. Blockchain and digital s
 :::
 
 # Budget
-CAL FRAME partners estimated an approximate annual budget averaging \$400,000 during the 1st three years of operation and based on similar operating expenses for RCDs in the region ({numref}`jpa-budget`). 
+Rough estimates for JPA creation in California for 2025 range from a bare bones budget of approximately \$400,000/year to more "inflation-proof" budget of \$2-3 mn/year for startup and sustainable implementation over time.[^mwpa]
 
-:::{table} Three-year hypothetical JPA budget showing revenue and expenses. 
-:label: jpa-budget
-
-| **ITEM**            | **YR1** | **YR2** | **YR3** | **TOTAL** |
-|:--------------------|--------:|--------:|--------:|----------:|
-|                     |         |         |         |           |
-| **REVENUE**         |         |         |         |           |
-| Contributions       | 60,000  | 60,000  | 60,000  | 180,000   |
-| Grants              | 60,000  | 120,000 | 150,000 | 330,000   |
-| Fee-for-Service     | 140,000 | 220,000 | 330,000 | 690,000   |
-| **TOTAL REVENUE**   | 260,000 | 400,000 | 540,000 | 1,200,000 |
-|                     |         |         |         |           |
-| **EXPENSES**        |         |         |         |           |
-| Labor               | 340,000 | 370,000 | 410,000 | 1,120,000 |
-| Operations          | 20,000  | 30,000  | 40,000  | 90,000    |
-| Outreach            | 2,000   | 3,000   | 4,000   | 9,000     |
-| **TOTAL EXPENSES**  | 362,000 | 403,000 | 454,000 | 1,219,000 |
-
-:::
+[^mwpa]: Note that the Marin Wildfire Prevention Authority, funded by a sales tax increase in Marin County has a $19.3 mn annual budget.
 
 ## Revenue
 Revenue contributions include contributions, grants, and fee-for-service consulting. Contributions and gifts may come from local to regional foundations and corporations interested in forest health. Individual contributions always have the potential to add up to more than foundation and corporate gifts, but they require more time to manage. Creating a time-bound campaign with a specific fundraising goal replete with a thermometer to show progress could be a great way to involve communities in the region through giving and creating outreach or communications opportunities at the same time to explain the need for a JPA and the importance of sustainable funding from the community to protect homes, infrastructure, and forests.
@@ -226,33 +210,9 @@ Evaluating whether to form a new governmental entity or organization is an impor
 Contingency funding should be written into the budget expenses. Adding 10-15% contingency line items to any secured grant would supplement that funding; however, most grant funding contingencies are typically applied to budget shortfalls. Other contingency funding sources could include unrestricted funding (such as contributions or gifts) and a higher indirect rate.
 
 ## Expenses
-An annual expense budget of ~\$ $400,000 is estimated for a JPA startup. The total expenses/year slowly ramp up each year of the budget with the idea that with additional secured revenue, a JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities such as additional sort yards. The bulk of the expenses is for labor and staff, including an executive director, a contracted feedstock manager, an administrative bookkeeper, and various contracted services. Briefly, the staff responsibilities are the following:
+An annual expense budget of ~\$ $400,000-2 mn is estimated for a JPA startup. The total expenses/year could slowly ramp up each year of the budget with the idea that with additional secured revenue, a JPA would bring on more staff capacity and increase offerings, reach, or fee-for-service activities or additional revenue generation activities. The bulk of the expenses is for labor and staff, although some JPAs operate completely through contracted staff.
 
-- **Executive Director**. Manage board of directors, lead program development/outreach/education/fundraising/communications, develop an annual budget, manage contracts, recruit and manage staff.
-- **Administrative Bookkeeper**. Track/invoice budget, develop cost allocation plan, manage grant reporting, administer payroll, manage AP/AR accounts, prepare 1099s and tax docs, develop grant budgets, and ensure financial compliance.
-- **Feedstock Manager**. Source and sell feedstock from public and private lands, arrange transport to sort yard(s), manage sort yards, develop outreach materials, manage compliance documents for sort yard and aggregation, and maintain records.
-
-Other expenses include operations and maintenance, audit and legal fees, insurance, equipment, software, travel, and bank fees. Expenses include communications, website development, outreach, equipment, insurance, and land lease costs for a sort yard.
-
-## Timeline
-An approximate timeline for key activities to fund and operationalize a JPA is shown in {numref}`gantt`. Endowment seed funding and a capital campaign will be critical to initiate the endowment. Staffing is described under expenses and shows the approximate start time for each staff member. The development of JPA bylaws will define governance, and JPA will be created when the Local Agency Formation Commission (LAFCO) filing is completed.
-
-:::{table} Timeline for a theoretical JPA startup period.
-:label: gantt
-
-| **Task**                  | **Sub-task**               | **2025** | **2026** | **2027** | **2028** | **2029** | **2030** |
-|:--------------------------|:---------------------------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **1. Revenue Generation** | Endowment creation         |          |          | X        | X        | X        |          |
-|                           | Gift campaign              | X        | X        | X        |          |          |          |
-|                           | Fee-service                |          |          | X        |  X       | X        | X        |
-|                           | Sort yard 1                |          |          |          |          | X        |          |
-|                           | Sort yard 2                |          |          |          |          |          | X        |
-| **2. Staffing**           | Executive director         | X        |          |          |          |          |          |
-|                           | Administrator              | X        |          |          |          |          |          |
-|                           | Feedstock manager          |          | X        |          |          |          |          |
-| **3. Governance**         | JPA bylaws                 | X        | X        |          |          |          |          |
-|                           | LAFCO filing               | X        |          |          |          |          |          |
-:::
+Other expenses include operations and maintenance, audit and legal fees, LAFCO filing, bylaw creation, insurance, equipment, software, travel, and bank fees. Expenses include communications, website development, outreach, equipment, and insurance..
 
 # Recommendations
 Funding JPAs is not a simple task, as most public funding sources are focused on project implementation, e.g., funding restoration projects in the field, rather than providing administrative support or organizational startup. Some foundations fund this type of work, but accessing those funds can be challenging. Another challenge is competing with existing entities for scarce local, regional, and federal resources. The following are recommendations to consider when examining the feasibility of building and maintaining a JPA for feedstock aggregation:
