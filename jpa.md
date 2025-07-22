@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. CLERE Inc. proposed JPA entities as brokers to long-term woody feedstock supply agreements. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and entity being developed.
+  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. CLERE Inc. proposed JPA entities as brokers to long-term woody feedstock supply agreements. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and the entity developed.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -25,7 +25,7 @@ exports:
 ---
 
 # JPA Funding Strategies
-Joint Powers Authorities (JPAs) are proposed as a solution in California to facilitate agreements with forest landowners and managers, thereby creating long-term supply contracts and increasing investor support for wood products businesses. Funding these entities presents challenges, given the difficulties of securing grants and private investments. Creating a diversified funding portfolio is crucial, especially for new entities, and suggestions for achieving this are provided.
+Joint Powers Authorities (JPAs) are proposed as a solution in California to facilitate agreements with forest landowners and managers, thereby creating long-term supply contracts and increasing investor support for wood products businesses. Funding JPAs presents challenges, given the difficulties of securing grants and private investments. Creating a diversified funding portfolio is crucial, especially for new entities, and suggestions for achieving this are provided.
 
 ## Takeaways
 Developing diverse funding sources is always a sound strategy. Additionally, creating steady and dependable income sources can help complement the dynamic world of grant funding. Additional takeaways are the following:
