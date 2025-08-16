@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. CLERE Inc. proposed JPA entities as brokers to long-term woody feedstock supply agreements. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and the entity developed.
+  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. Proposed JPA entities to act as brokers to long-term woody feedstock supply agreements could be a viable option. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. We include a an in-depth analysis of funding required to sustainably fund six pilot JPAs through an endowment investment to reduce state costs over time. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and the entity developed.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -57,7 +57,7 @@ Processing biomass from thinning is challenging; https://doi.org/10.3390/en14092
 
 Transportation subsidies to move this feedstock to central locations or nearby facilities could be a crucial missing component in addressing the wildfire problem across the western United States.[^dead] Transporting the feedstock to a central location, accessible and central to processors, biomass facilities, and wood product businesses, would help move the biomass out of the woods, mitigating fire risk while also facilitating the centralization of long-term feedstock contracts with landowners and managing agencies. 
 
-For instance, [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org) identified approximately half (242,365 acres) of Sonoma County's forested acres as feasible for treatments ({numref}`sonoma`). Berry Sawmill was identified as an ideal location for a wood products campus and aggregation yard [@costa]. Creating similar management entities across the West could make it easier for investors to conduct due diligence. Joint Powers Authorities may be an organizational template that can meet these needs.
+For instance, [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org) identified approximately half (242,365 acres) of Sonoma County's forested acres as feasible for treatments ({numref}`sonoma`). Berry Sawmill was identified as an ideal location for a wood products campus and aggregation yard [@costa]. Creating similar management entities across the West could make it easier for investors to conduct due diligence. Joint Powers Authorities may be an organizational template that can meet these needs. @swezy cautioned against starting new sort yards in northeast California, instead focusing on supporting exsiting biomass facilities, offering insurance to existing wood yards, and securing funding for a consistent pipeline of environmentally compliant (CEQA/NEPA) projects on which operators can bid.
 
 [^dead]: The old rule of thumb is a maximum 50-mile deadhead (empty trailer returning after dropping off payload) trip for timber or other forest products.
 
@@ -151,6 +151,44 @@ Many of the Office of Land Use and Climate Innovation's feedstock aggregation pi
   - Permitting and capacity building take time. 
   - 4      
 :::
+
+## Endowment Analysis
+Endowment-based funding represents a promising and underutilized strategy for ensuring the long-term financial sustainability of Joint Powers Authorities (JPAs) engaged in forest health and feedstock aggregation. Unlike grant-dependent models, which are vulnerable to the cyclical nature of public budgets and shifting political priorities, endowments can provide a stable and predictable revenue stream. 
+
+### How it Works
+By investing a substantial principal—such as an initial gift of \$10 million—and supplementing it with modest annual contributions, a JPA can generate consistent income to support core operations, staffing, and potentially even programmatic expansion ({numref}`graphic`). The administrative burden and ongoing costs associated with managing an endowment are typically lower than those required for continuous grant writing and reporting, making this approach attractive for organizations seeking to minimize overhead.
+
+:::{figure} /images/graphic.png
+:label: graphic
+Endowment operations and potential earnings over 10 years with a 6% return. Withdrawals would be from interest earned from the principle. Returns may be lower or higher than 6% so the investment may increase or decrease more or less than the linear increase indicated in the chart.
+:::
+
+<span style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">
+  <a href="images/graphic.png" target="_blank" style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">Click to zoom figure</a>
+</span> <br>
+
+Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 6%, a spending rate of 4%, and an administrative fee of 0.2%, the endowment could yield approximately \$400,000 in its first year, with annual income rising to nearly \$800,000 by year 25. This steady growth not only insulates the JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
+
+How much would the avoided cost amount be, e.g., 
+
+:::{table} Endowment analysis: How much will it cost? Average return is based on a 7% return with income generated averaged over the 1st five years. The initial income after year one would be \$400,200 rising to \$783,162 after 25 years. Annual contributions from other revenue is conservatively estimated at \$5,000/year and the administrative fee estimated to 0.2% which is on the high end of endowments in this range (0.1-0.2). 
+:label: endow-table
+
+| Scenarios| Principal | Contributions | Annual Return | Spending % | Admin % |
+| :----------| :---------: | ----: | ------: | --: | ---: |
+| Minimum | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
+| Middle | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
+| Maximum | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
+:::
+
+This gives a starting income of 400k in year 1 increasing to almost 800k/yr in year 25 ({numref}`endow-table`).
+
+### Viable Scenarios
+
+### Community Benefits
+An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses. By acting as a mission-driven lender, the JPA can support critical projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
+
+
 
 ## Temporal Adoption
 Any funding strategies, whether they are traditional or new conservation finance approaches, may be new or untested for certain audiences. Raising funds from traditional resources, then piloting new options over time, may be the best approach to introduce novel income sources. For example: 
