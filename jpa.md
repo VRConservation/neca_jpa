@@ -7,7 +7,7 @@ authors:
   - name: Vance Russell
     affiliations:
       - 3point.xyz
-    email: vance@3point.xyz
+    email: info@3point.xyz
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
@@ -57,7 +57,7 @@ Processing biomass from thinning is challenging; https://doi.org/10.3390/en14092
 
 Transportation subsidies to move this feedstock to central locations or nearby facilities could be a crucial missing component in addressing the wildfire problem across the western United States.[^dead] Transporting the feedstock to a central location, accessible and central to processors, biomass facilities, and wood product businesses, would help move the biomass out of the woods, mitigating fire risk while also facilitating the centralization of long-term feedstock contracts with landowners and managing agencies. 
 
-For instance, [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org) identified approximately half (242,365 acres) of Sonoma County's forested acres as feasible for treatments ({numref}`sonoma`). Berry Sawmill was identified as an ideal location for a wood products campus and aggregation yard [@costa]. Creating similar management entities across the West could make it easier for investors to conduct due diligence. Joint Powers Authorities may be an organizational template that can meet these needs. @swezy cautioned against starting new sort yards in northeast California, instead focusing on supporting exsiting biomass facilities, offering insurance to existing wood yards, and securing funding for a consistent pipeline of environmentally compliant (CEQA/NEPA) projects on which operators can bid.
+For instance, [Regenerative Forest Solutions](https://www.regenerativeforestsolutions.org) identified approximately half (242,365 acres) of Sonoma County's forested acres as feasible for treatments ({numref}`sonoma`). Berry Sawmill was identified as an ideal location for a wood products campus and aggregation yard [@costa]. Creating similar management entities across the West could make it easier for investors to conduct due diligence. Joint Powers Authorities may be an organizational template that can meet these needs. @swezy cautioned against starting new sort yards in northeast California, instead focusing on supporting existing biomass facilities, offering insurance to existing wood yards, and securing funding for a consistent pipeline of environmentally compliant (CEQA/NEPA) projects on which operators can bid.
 
 [^dead]: The old rule of thumb is a maximum 50-mile deadhead (empty trailer returning after dropping off payload) trip for timber or other forest products.
 
@@ -169,26 +169,36 @@ Endowment operations and potential earnings over 10 years with a 6% return. With
 
 Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 6%, a spending rate of 4%, and an administrative fee of 0.2%, the endowment could yield approximately \$400,000 in its first year, with annual income rising to nearly \$800,000 by year 25. This steady growth not only insulates the JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
 
-How much would the avoided cost amount be, e.g., 
+
 
 :::{table} Endowment analysis: How much will it cost? Average return is based on a 7% return with income generated averaged over the 1st five years. The initial income after year one would be \$400,200 rising to \$783,162 after 25 years. Annual contributions from other revenue is conservatively estimated at \$5,000/year and the administrative fee estimated to 0.2% which is on the high end of endowments in this range (0.1-0.2). 
 :label: endow-table
 
-| Scenarios| Principal | Contributions | Annual Return | Spending % | Admin % |
+| Scenarios | Principal | Contributions | Avg. Return | Spending % | Admin % |
 | :----------| :---------: | ----: | ------: | --: | ---: |
-| Minimum | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
-| Middle | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
-| Maximum | 10,000,000 | 5,000 | 414,100 | 4 | 0.2 |
+| Central Sierra | 6,600,000 | 5,000 | 280,000 | 4 | 0.2 |
+| Northeast CA | 10,000,000 | 5,000 | 423,659 | 4 | 0.2 |
+| North Coast | 15,000,000 | 5,000 | 414,100 | 4 | 0.2 |
 :::
 
 This gives a starting income of 400k in year 1 increasing to almost 800k/yr in year 25 ({numref}`endow-table`).
 
+How much would the avoided cost amount be, e.g., 
+
+:::{table} Avoided cost estimate estimated from five pilot budgets vs. business and usual costs estimated from assumed agency costs to manage grant funds and inflationary rises over five years.
+:label: avoided
+
+| Endowment Investment | BAU Cost | 
+| :----------| :---------: |
+| 63,200,000 | 100,000,000 |
+:::
+
 ### Viable Scenarios
 
 ### Community Benefits
-An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses. By acting as a mission-driven lender, the JPA can support critical projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
+An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses.[^temra] By acting as a mission-driven lender, the JPA can support critical projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
 
-
+[^temra]: Thank you to Temra Costa, Regenerative Forest Solutions, for this idea.
 
 ## Temporal Adoption
 Any funding strategies, whether they are traditional or new conservation finance approaches, may be new or untested for certain audiences. Raising funds from traditional resources, then piloting new options over time, may be the best approach to introduce novel income sources. For example: 
@@ -197,7 +207,7 @@ Any funding strategies, whether they are traditional or new conservation finance
 2. Other revenue-generating options could be tested in the same manner to ensure their effectiveness and introduce them to skeptical participants, financial managers, or government entities that are not used to working with alternative finance options.
 
 ## Collaborative Finance
-Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers ([Russell and Odefey 2024](https://confinance.info)). This process may or may not include traditional financial institutions.[^collabo] The term can be broadened to include finance developed through the fair and equitable participation of stakeholders in a region, landscape, or watershed, addressing natural resource and infrastructure management needs, and utilizing multiple forms of funding, from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. 
+Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers [@russell]. This process may or may not include traditional financial institutions.[^collabo] The term can be broadened to include finance developed through the fair and equitable participation of stakeholders in a region, landscape, or watershed, addressing natural resource and infrastructure management needs, and utilizing multiple forms of funding, from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. 
 
 The challenge of new finance options vs. more traditional approaches is, simply put, they're new. As a result, more conservative controllers, accountants, and similar financial managers within any organization will be resistant to implementing new, unproven methods for generating income. Consequently, it may be best to start strong with traditional approaches and gradually test new strategies. Feasibility studies may also help introduce collaborative finance and new approaches. However, there are examples of established and successful impact finance bonds on the North Yuba River to draw upon when creating novel funding streams.
 
