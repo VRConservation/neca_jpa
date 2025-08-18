@@ -160,18 +160,20 @@ By investing a substantial principal—such as an initial gift of \$10 million�
 
 :::{figure} /images/graphic.png
 :label: graphic
-Endowment operations and potential earnings over 10 years with a 6% return. Withdrawals would be from interest earned from the principle. Returns may be lower or higher than 6% so the investment may increase or decrease more or less than the linear increase indicated in the chart.
+Endowment operations and potential earnings over 10 years with a 7% return, 4% annual spending rate and 0.2% administrative fees. Total return is estimated at ~32%. Withdrawals would be from interest earned from the principle. Returns may be lower or higher than 6% so the investment may increase or decrease more or less than the linear increase indicated in the chart.
 :::
 
 <span style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">
   <a href="images/graphic.png" target="_blank" style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">Click to zoom figure</a>
 </span> <br>
 
-Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 6%, a spending rate of 4%, and an administrative fee of 0.2%, the endowment could yield approximately \$400,000 in its first year, with annual income rising to nearly \$800,000 by year 25. This steady growth not only insulates the JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
+Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 6%, a spending rate of 4%, and an administrative fee of 0.2%, the endowment could yield approximately \$400,000 in its first year, with annual income rising to nearly \$800,000 by year 25 ({numref}`endow-table`). This steady growth not only insulates the JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
 
+This gives a starting income of 400k in year 1 increasing to almost 800k/yr in year 25 .
 
+For the Northeast California pilot, the initial income after year one would be \$400,200 rising to \$783,162 after 25 years. Annual contributions from other revenue is conservatively estimated at \$5,000/year and the administrative fee estimated to 0.2% which is on the high end of endowments in this range (0.1-0.2). The income is based on an approximate expense estimate from the pilot's Entity Action Plan of \$400,00/year. 
 
-:::{table} Endowment analysis: How much will it cost? Average return is based on a 7% return with income generated averaged over the 1st five years. The initial income after year one would be \$400,200 rising to \$783,162 after 25 years. Annual contributions from other revenue is conservatively estimated at \$5,000/year and the administrative fee estimated to 0.2% which is on the high end of endowments in this range (0.1-0.2). 
+:::{table} Endowment analysis: How much will it cost? Average return is based on a 7% return with income generated averaged over the 1st five years. 
 :label: endow-table
 
 | Scenarios | Principal | Contributions | Avg. Return | Spending % | Admin % |
@@ -179,21 +181,23 @@ Financial calculations demonstrate the power of the initial investment over time
 | Central Sierra | 6,600,000 | 5,000 | 280,000 | 4 | 0.2 |
 | Northeast CA | 10,000,000 | 5,000 | 423,659 | 4 | 0.2 |
 | North Coast | 15,000,000 | 5,000 | 414,100 | 4 | 0.2 |
+| TOTALS | 63,200,000 | n/a | 11,177,890 | n/a | n/a |
 :::
 
-This gives a starting income of 400k in year 1 increasing to almost 800k/yr in year 25 ({numref}`endow-table`).
 
-How much would the avoided cost amount be, e.g., 
+
+### Avoided Cost Estimate
+({numref}`avoided`)
 
 :::{table} Avoided cost estimate estimated from five pilot budgets vs. business and usual costs estimated from assumed agency costs to manage grant funds and inflationary rises over five years.
+:alignment: left
 :label: avoided
 
-| Endowment Investment | BAU Cost | 
-| :----------| :---------: |
-| 63,200,000 | 100,000,000 |
+| Type | Amount | 5-year return | ROI |
+| :----| :---: | ---: | :-: |
+| Endowments | 63,200,000 | 11,177,890 | 32% |
+| Grants | 100,000,000 | -100,000 | -30% |
 :::
-
-### Viable Scenarios
 
 ### Community Benefits
 An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses.[^temra] By acting as a mission-driven lender, the JPA can support critical projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
