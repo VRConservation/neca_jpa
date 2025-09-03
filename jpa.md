@@ -3,6 +3,7 @@ title: JPA Funding Strategies 💵
 subject: Funding Forest Health
 subtitle: For long-term woody feedstock supply agreements in California
 short_title: Funding JPAs
+date: 2025-09-03
 authors:
   - name: Vance Russell
     affiliations:
