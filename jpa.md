@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, finance, feedstock, forest health, funding, joint powers authority 
 abstract: |
-  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. Proposed JPA entities to act as brokers to long-term woody feedstock supply agreements could be a viable option. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. We include a an in-depth analysis of funding required to sustainably fund six pilot JPAs through an endowment investment to reduce state costs over time. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and the entity developed.
+  This review analyzes funding strategies to secure sustainable funding for Joint Powers Authorities (JPAs). The California Governor's Office for Land Use and Climate Innovation provided funding to develop multiple feedstock supply aggregation pilots throughout California. Proposed JPA entities acting as brokers for long-term woody feedstock supply agreements could be a viable option. Sustainable funding for each JPA will be challenging, especially in rural areas without the tax base to support sales tax increases or similar local bond measures. Starting with traditional funding sources and complementing them with new funding strategies or dependable income sources will provide a more secure approach to long-term organizational stability. We include an in-depth analysis of the funding required to sustainably operate six pilot JPAs through an endowment investment, aiming to reduce state costs over time. Other recommendations include piloting new approaches, such as conservation finance, leveraging public funding with private, and using the right revenue source for the location and the entity being developed.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -32,10 +32,10 @@ Developing diverse funding sources is always a sound strategy. Additionally, cre
 
 1. **Portfolio strategy**. Be strategic about what funds you utilize for different projects and programs. Look to foundations and business support grants for organizational startup or administrative costs. Still, there are implementation grants for field projects and private or bank loans for scaling once a JPA is established.
 2. **Temporal ramping**. Revenue sources outside the realm of taxes and grants may be difficult to create and execute with risk-averse agencies and organizations. Try funding with traditional resources, such as grants, first, and then gradually introduce new resources to diversify your funding portfolio and help establish the new organization's financial stability over time.
-3. **Grant dependence & giving**. In a similar vein, just because grants are available does not mean that will be the case indefinitely. As soon as you secure a grant, leverage it with other funding sources and work tirelessly to create more dependable and steady income sources. It may seem daunting, but remember that the single largest source of charitable giving in the United States comes from individuals, not foundations, corporations, or grant-making agencies. Individual contributions are also the least restricted type of funding, so it is critical for covering operational expenses. Develop a strategy to cultivate local support through individual donations and campaigns.
+3. **Grant dependence & giving**. In a similar vein, just because grants are available does not mean that will be the case indefinitely. As soon as you secure a grant, leverage it with other funding sources and work tirelessly to create more dependable and steady income sources. It may seem daunting, but remember that the single largest source of charitable giving in the United States comes from individuals, not foundations, corporations, or grant-making agencies. Individual contributions are also the least restricted type of funding, making them critical for covering operational expenses. Develop a strategy to cultivate local support through individual donations and campaigns.
 
 ## Background
-The large wildfire seasons of the past five years were catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, these events are not unprecedented in recent California history and are typically associated with periods of drought, e.g., the 1920s and 2010s. According to https://doi.org/10.1016/j.foreco.2021.120004, tree densities in the Sierra Nevada over the past century increased by up to sevenfold, while average tree size decreased by 50%.
+The large wildfire seasons of the past five years were catastrophic for forests and communities. However, according to https://fireecology.springeropen.com/articles/10.1186/s42408-021-00110-7, these events are not unprecedented in recent California history and are typically associated with periods of drought, e.g., the 1920s and 2010s. According to https://doi.org/10.1016/j.foreco.2021.120004, tree densities in the Sierra Nevada have increased by up to sevenfold over the past century, while average tree size has decreased by 50%.
 
 Not only does this overcrowding weaken forest health, but excessively dense forests also cause fires to burn more severely. A meta-analysis led by https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.2431 showed a fire deficit and widespread alteration of ecological structure and function across seasonally dry forests of western North America. A chronic level of stress is created by high competition across tree stands, resulting in reduced resilience to drought, disease, fire, and climate change. https://doi.org/10.2737/PSW-GTR-220 advocates for an aggressive approach to treating fire-suppressed stands using an ecologically based approach that reduces the total number of trees/acre while maintaining stand heterogeneity.
 
@@ -96,7 +96,7 @@ JPA establishment is at different levels across the state. During the establishm
 
 :::
 
-[^mwpa]: JPAs similar to the Marin Wildfire Prevention Authority, funded through a county-wide sales tax increase, are typically infeasible in rural areas with low tax bases.
+[^mwpa]: JPAs, similar to the Marin Wildfire Prevention Authority, funded through a county-wide sales tax increase, are typically infeasible in rural areas with low tax bases.
 
 # Funding Options
 The abundance of state and federal funding over the past five years has led many agencies and organizations to rely heavily on grant funding for implementing restoration and infrastructure projects. The Trump administration's cuts in 2025, or the periodic surplus/deficit of California state funding, demonstrate the vulnerability of grant funding dependence. Many organizations are familiar with the cyclical nature of funding sources and seek to create more dependable, even-keeled funding streams, although grants can often complement stable revenue streams.
@@ -105,13 +105,13 @@ The abundance of state and federal funding over the past five years has led many
 Many of the Office of Land Use and Climate Innovation's feedstock aggregation pilots recognized the need for long-term funding sources and that grants are not a dependable resource to maintain an organization over time. Traditional funding sources are many, and a blended portfolio should help weather changes in grant cycles and tap into funding sources that can provide steady revenue. These options are described below, with the pluses and minuses of each summarized in ({numref}`funding`). Other revenue sources, such as climate bond funding, agency funding, and legislative action, are also available, but their outcomes tend to be grant-based and temporary.
 
 1. **Endowment**. In the case of the feedstock aggregation pilots, the Office of Land Use and Climate Change Innovation provided a funding tranche to kickstart JPA creation. This funding could be used to create an endowment or, at the very least, seed an endowment that could provide a steady source of unrestricted revenue if invested wisely. Other JPAs could do the same with an initial foundation grant or a campaign to raise sufficient funds to start an endowment.
-2. **Contributions**. A capital campaign to raise awareness about a JPA and generate individual, corporate, and foundation grants would complement any secured funds. Match from non-public sources often makes grant applications more competitive. A well-defined JPA strategy that clearly outlines the mission, programs, and projects is crucial for focusing funding requests. Similarly, for any grant application, it prioritizes which funding to pursue ([Forest Business Alliance 2024](https://forestbiz.info/chapters/program.html)). Capital or general campaigns can be an excellent vehicle to drive individual donations and raise awareness about the importance of the issue at hand.
+2. **Contributions**. A capital campaign to raise awareness about a JPA and generate individual, corporate, and foundation grants would complement any secured funds. Match from non-public sources often makes grant applications more competitive. A well-defined JPA strategy that clearly outlines the mission, programs, and projects is crucial for focusing funding requests. Similarly, for any grant application, it prioritizes which funding to pursue [@fba]. Capital or general campaigns can be an excellent vehicle to drive individual donations and raise awareness about the importance of the issue at hand.
 3. **Federal and State Grants**. It is unlikely that a JPA will receive significant operational funding from state and federal grants, but any proposals it leads or participates in could charge overhead (~10%) plus directly bill salaries to cover some operating costs related to the grant. A negotiated indirect cost rate agreement, or NICRA, to increase this value through public grants could be another approach to boost operating cost revenues.
 4. **Member Contributions**. JPA members or beneficiaries, such as RCDs, pay an annual cost to participate in the feedstock aggregation program. Membership would provide consistent revenue and encourage the member organizations to be involved in the development and success of the JPA.
 5. **Fee-for-service**. Charging fees for forest management, timber harvest plans, feedstock contracts, or grant administration, depending on the skills of the JPA staff, could be another way to generate a steady income source. Western Shasta RCD, for example, works with non-industrial forest owners to develop forest management plans. The State can fund the development of forest management plans for private landowners. A JPA could offer similar services as long as it does not compete with RCDs in the region.
 6. **Sort yards**. Managing a sort yard for aggregated feedstock could be a strategic revenue source. Note that feedstock aggregation and sort yards should not be conflated, nor should the creation of JPAs be thought of as sort yard managers. A sort yard may be one strategy for income generation, but it not necessarily connected to the goal of a feedstock aggregation JPA, which is to broker long-term supply contracts.
 
-:::{list-table} Analysis of funding types appropriate to aggregation JPAs. Timing roughly refers to the amount of time required to generate income. Difficulty is a qualitative scale ranging from 1 (easiest to secure) to 5 (most difficult). Note that sort yards are not to be conflated with JPA creation or feedstock aggregation.
+:::{list-table} Analysis of funding types suitable for aggregation JPAs. Timing roughly refers to the amount of time required to generate income. Difficulty is a qualitative scale ranging from 1 (easiest to secure) to 5 (most difficult). Note that sort yards are not to be conflated with JPA creation or feedstock aggregation.
 :header-rows: 1
 :label: funding
 
@@ -153,50 +153,54 @@ Many of the Office of Land Use and Climate Innovation's feedstock aggregation pi
 :::
 
 ## Endowment Analysis
-Endowment-based funding represents a promising and underutilized strategy for ensuring the long-term financial sustainability of Joint Powers Authorities (JPAs) engaged in forest health and feedstock aggregation. Unlike grant-dependent models, which are vulnerable to the cyclical nature of public budgets and shifting political priorities, endowments can provide a stable and predictable revenue stream. 
+Endowment-based funding represents a promising and underutilized strategy for ensuring the long-term financial sustainability of Joint Powers Authorities (JPAs) engaged in forest health and feedstock aggregation. Unlike grant-dependent models, which are vulnerable to the cyclical nature of public budgets and shifting political priorities, endowments can provide a stable and predictable revenue stream. Endowments may be the most strategic way to fund JPAs, especially since some may struggle to garner grant funding in the future, given their long-term feedstock supply contract focus.
 
 ### How it Works
 By investing a substantial principal—such as an initial gift of \$10 million—and supplementing it with modest annual contributions, a JPA can generate consistent income to support core operations, staffing, and potentially even programmatic expansion ({numref}`graphic`). The administrative burden and ongoing costs associated with managing an endowment are typically lower than those required for continuous grant writing and reporting, making this approach attractive for organizations seeking to minimize overhead.
 
 :::{figure} /images/graphic.png
 :label: graphic
-Endowment operations and potential earnings over 10 years with a 7% return, 4% annual spending rate and 0.2% administrative fees. Total return over 10 years is estimated at ~32%. Withdrawals would be from interest earned from the principle. Returns may be lower or higher than 6% so the investment may increase or decrease more or less than the linear increase indicated in the chart.
+Endowment operations and potential earnings over 10 years with a 7% return, 4% annual spending rate, and 0.2% administrative fees. The total return over 10 years is estimated to be 32%. Withdrawals would be from interest earned from the principal. Returns may be lower or higher than 6% so the investment may increase or decrease more or less than the linear increase indicated in the chart. Graphic adapted from @synch.
 :::
 
 <span style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">
   <a href="images/graphic.png" target="_blank" style="font-size:12px !important; font-weight:normal !important; color:#444 !important; text-decoration:none !important;">Click to zoom figure</a>
 </span> <br>
 
-Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 6%, a spending rate of 4%, and an administrative fee of 0.2%, an endowment of \$10 mn  could yield approximately \$400,000 in its first year, with annual income rising to nearly \$448,000 by year 5 ({numref}`endow-table`). This steady growth not only insulates a JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
+Financial calculations demonstrate the power of the initial investment over time compared to annual grants or allocations. With a conservative annual return of 7%, a spending rate of 4%, and an administrative fee of 0.2%, an endowment of \$10 mn  could yield approximately \$400,000 in its first year, with annual income rising to nearly \$448,000 by year 5 ({numref}`endow-table`). This steady growth not only insulates a JPA from the volatility of state surpluses and deficits but also frames endowment funding as a long-term cost-avoidance strategy for public agencies and private donors alike. By establishing a robust endowment, JPAs can ensure operational continuity, attract and retain skilled staff, and maintain the flexibility needed to respond to emerging challenges in forest management and wildfire mitigation.
 
-:::{table} Endowments based on four pilot JPA annual budget estimates. Average returns are based on a 7% return with income generated averaged over the 1st five years. An estimated 0.2% administrative fee and $5,000 contribution to the principal is included in the calculations. 
+To calculate the required endowments, we estimated 5-year returns with a 4% annual spending and a modest 7% annual return. A 0.2% administrative fee and an additional $5,000/yr in individual contributions were factored into the return calculations. We set each endowment to the closest \$100,000 that created a 5-year return exceeding the estimated 5-year budget created by each pilot team.
+
+:::{table} Endowments based on four pilot JPA annual budget estimates. 5-year budget is an estimate from the respective JPA proponents. Average returns are based on a 7% return with income generated averaged over the 1st five years. An estimated 0.2% administrative fee and $5,000 contribution to the principal are included in the calculations. RRA = Risk Reduction Authority, RFS = Regenerative Forest Solutions.
 :label: endow-table
 
-| Scenarios | Principal | Avg. Return | 5-yr Return
-| :----------| :---------: | ------: | --------: |
-| Central Sierra | 6,600,000 | 279,596 | 1,399,134 |
-| Lake County RRA | 6,600,000 | 279,596 |1,399,134 |
-| Northeast CA | 10,000,000 | 423,659 | 2,118,296 |
-| Sonoma County | 17,500,000 | 740,313 | 3,701,566 |
-| TOTAL | 40,700,000 | n/a | 8,618,130
+| JPA                  | 5-yr Budget | Endowment | Avg. Return | 5-yr Return
+| :----------          | :-------: |:---------: | ------: | --------: |
+| Tahoe Central Sierra | 1,293,750 | 6,500,000  | 275,596 | 1,377,982 |
+| Lake County RRA      | 1,380,662 | 6,600,000  | 279,596 | 1,399,134 |
+| Northeast CA         | 2,067,375 | 10,000,000 | 423,659 | 2,118,296 |
+| Sonoma County RFS    | 3,674,075 | 17,500,000 | 740,313 | 3,701,566 |
+| TOTAL                | 8,415,862 | 40,700,000 | n/a     | 8,618,130 |
 :::
 
 ### Avoided Cost Estimate
-Let's assume that it would cost $115,000/yr for a state agency to manage a grants program. This includes staff, administrative, and operating costs. We've assumed an annual rate of inflation of 4\% to give a total five year cost of \$622,877. The 5-year returns are very close to the estimated operating costs of each JPA, so we'll assume that that \$8.7 mn is the total amounted granted giving a total cost of 9,322,877. Although granting agencies ROI is really the public benefit from making the grants for project implementation, this would give a quantified ROI of -6.7\% ({numref}`avoided`) for five years. That ROI would continue to decrease over time, whereas the ROI of 27% for the endowment investment would continue to grow.
+Let's assume that it would cost $115,000/yr for a state agency to manage a grants program. This includes staff, administrative, and operating costs. We've assumed an annual rate of inflation of 4\% to give a total five-year cost of \$622,877. The 5-year returns are very close to the estimated operating costs of each JPA, so we'll assume that \$8.7 mn is the total amount granted, giving a total cost of 9,322,877. Although the granting agency return on investment is really the public benefit from making the grants for project implementation, these operating costs would provide an ROI of -6.7\% ({numref}`avoided`) for five years. That ROI would continue to decrease over time, e.g., become more costly for the State, whereas the ROI of 27% for the endowment investment would continue to grow.
 
 :::{table} Avoided cost estimate estimated from the four pilot budgets vs. estimated agency costs to manage grant funds.
 :label: avoided
 
 | Program | Amount | 5-year return | ROI (%) |
-| :----| ---: | ---: | :----: |
-| Endowments | 40,700,000 | 8,618,130 | 21 |
-| Grants | 9,322,877 | -8,700,000 | -6.7 |
+| :-------| -----: | ------------: | :------: |
+| Endowments | 40,700,000 | 8,618,130  | 21   |
+| Grants     | 9,322,877  | -8,700,000 | -6.7 |
 :::
 
-### Community Benefits
-An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses.[^temra] By acting as a mission-driven lender, the JPA can support critical projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
+### Benefits
+An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses.[^temra] By acting as a community-based lender, the JPA can support local projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
 
-[^temra]: Thank you to Temra Costa, Regenerative Forest Solutions, for this idea.
+Although we don't have evidence to support this theory, we suspect organizations with a solid endowment will be more competitive for public funding, given their ability to provide a match and solid operating revenue. Established endowments offer a source of unrestricted funds that can be strategically used to meet grant match requirements for state and federal funding opportunities. With a robust endowment, organizations can offer greater match amounts, making their grant applications more competitive and attractive to funders. Additionally, a solid core operating budget supported by endowment income ensures organizational stability and the capacity to manage and implement grant-funded projects effectively.
+
+[^temra]: Personal communication, Temra Costa, Regenerative Forest Solutions.
 
 ## Temporal Adoption
 Any funding strategies, whether they are traditional or new conservation finance approaches, may be new or untested for certain audiences. Raising funds from traditional resources, then piloting new options over time, may be the best approach to introduce novel income sources. For example: 
