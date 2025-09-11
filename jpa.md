@@ -180,30 +180,29 @@ To calculate the required endowments, we estimated 5-year returns with a 4% annu
 :::{table} Endowments based on four pilot JPA annual budget estimates. The 5-year budget is an estimate from the respective JPA proponents. Average returns are based on a 7% return with income generated averaged over the 1st five years. An estimated 0.2% administrative fee and $5,000 contribution to the principal are included in the calculations. RRA = Risk Reduction Authority, RFS = Regenerative Forest Solutions. The Central Sierra South JPA is the sole example likely working with an existing JPA (Central Sierra Economic Development District) and may be an outlier for comparison to the other four startup JPAs.
 :label: endow-table
 
-| JPA                  | 5-yr Budget | Endowment | Avg. Return | 5-yr Return |
-| :------------------- | :-------: |:---------: | ------: | --------: |
-| Central Sierra Tahoe | 1,293,750 | 6,500,000  | 275,596 | 1,377,982 |
-| Central Sierra South | 1,386,080 | 6,600,000  | 279,596 | 1,399,134 |
-| Lake County RRA      | 1,380,662 | 6,600,000  | 279,596 | 1,399,134 |
-| Northeast CA         | 2,067,375 | 10,000,000 | 423,659 | 2,118,296 |
-| Sonoma County RFS    | 2,809,895 | 13,500,000 | 572,865 | 2,864,327 |
-| TOTAL                | 8,992,194 | 43,200,000 | n/a     | 9,158,873 |
+| JPA                  | 5-yr Budget | Endowment   | Avg. Return | 5-yr Return |
+| :------------------- | :---------: | :---------: | ----------: | ----------: |
+| Central Sierra Tahoe | 1,293,750   | 6,470,000   |   258,733   |  1,293,663  |
+| Central Sierra South | 1,386,080   | 6,930,000   |   277,222   |  1,474,272  |
+| Lake County RRA      | 1,380,662   | 6,900,000   |   276,132   |  1,469,175  |
+| Northeast CA         | 2,067,375   | 10,340,000  |   413,475   |  2,067,375  |
+| Sonoma County RFS    | 2,809,895   | 14,050,000  |   561,979   |  2,809,895  |
+| TOTAL                | 8,938,762   | 44,690,000  |   n/a       |  8,940,719  |
 :::
 
-
 ### Avoided Cost Estimate
-Let's assume that it would cost \$115,000/yr for a state agency to manage a grants program. This includes staff, administrative, and operating costs. If we add an annual rate of inflation of 4\%, that gives a total five-year cost of \$622,877 for grant administration. The five-year budgets from the JPAs would likely form the basis of grant requests so the grant administration plus five-year budgets totals approximately \$9.6 million. 
+Let's assume that it would cost \$115,000/yr for a state agency to manage a grants program. This includes staff, administrative, and operating costs. If we add an annual rate of inflation of 4\%, that gives a total five-year cost of \$622,877 for grant administration. The five-year budgets from the JPAs would likely form the basis of grant requests so the grant administration plus five-year budgets totals \$9,561,639. 
 
 Although the granting agency return on investment is really the public benefit from making the grants for project implementation, these operating costs would provide an ROI of -100\% since there would be no return ({numref}`avoided`). That ROI would continue to decrease over time, e.g., become more costly for the State, as the program continues to support the JPAs via grants. 
 
-On the other hand, the initial investment of \$43 million for the endowments amortizes to \$8.6 million over five years and gives a return of nearly \$9.2 million or 21\%. The return for the endowments would continue to grow and not be a recurring state cost, allowing state funds to be invested in other JPAs or new projects.
+On the other hand, the initial investment of \$44.6 million for the endowments amortizes to ~\$8.94 million over five years and gives a return of nearly \$9.2 million or 21\%. The return for the endowments would continue to grow and not be a recurring state cost, allowing state funds to be invested in other JPAs or new projects.
 
 :::{table} Avoided 5-year cost estimate estimated from the five pilot budgets vs. estimated agency costs to manage grant funds. The return is a 5-year return. ROI = Return on Investment.
 :label: avoided
 
 | Program    | Investment | Return     | ROI (%) |
 | :--------- | ---------: | ---------: | --: |
-| Endowments | 8,640,000  | 9,158,873  | 21   |
+| Endowments | 8,938,762  | 8,940,719  | 21   |
 | Grants     | 9,615,071  | -9,615,071 | -100 |
 :::
 
