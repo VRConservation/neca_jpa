@@ -184,7 +184,7 @@ Financial calculations illustrate the impact of the initial investment over time
 
 To calculate the required endowments, we estimated 5-year returns with a 4% annual spending and a modest 7% annual return. A 0.2% administrative fee and an additional $5,000/yr in individual contributions were factored into the return calculations. We set each endowment to the closest \$100,000 that created a 5-year return exceeding the estimated 5-year budget created by each pilot team.
 
-:::{table} Example endowments based on five pilot JPA annual budget estimates. The 5-year budget is an estimate from the respective JPA proponents. Average returns are based on a 7% return with income generated averaged over the 1st five years. An estimated 0.2% administrative fee and $5,000 contribution to the principal are included in the calculations. The Central Sierra South example is being developed from an existing JPA (Central Sierra Economic Development District or CSEDD) and, therefore, may not be directly comparable to the other four startup JPAs. A similar example in development is the Eastern Sierra Council of Governments (ESCOG). RRA = Risk Reduction Authority, FBA = Forest Biomass Authority, RFS = Regenerative Forest Solutions.  JPA endowments are not limited to these examples. 
+:::{table} Example endowments (\$USD) based on five pilot JPA annual budget estimates. The 5-year budget is an estimate from the respective JPA proponents. Average returns are based on a 7% return with income generated averaged over the 1st five years. An estimated 0.2% administrative fee and $5,000 contribution to the principal are included in the calculations. The Central Sierra South example is being developed from an existing JPA (Central Sierra Economic Development District or CSEDD) and, therefore, may not be directly comparable to the other four startup JPAs. A similar example in development is the Eastern Sierra Council of Governments (ESCOG). RRA = Risk Reduction Authority, FBA = Forest Biomass Authority, RFS = Regenerative Forest Solutions.  JPA endowments are not limited to these examples. 
 :label: endow-table
 
 | JPA                  | 5-yr Budget | Endowment   | Avg. Return | 5-yr Return |
@@ -198,13 +198,13 @@ To calculate the required endowments, we estimated 5-year returns with a 4% annu
 :::
 
 ### Avoided Cost Estimate
-Let's assume that it would cost \$115,000/yr for a state agency to manage a grants program. This includes staff, administrative, and operating costs. If we add an annual rate of inflation of 4\%, that gives a total five-year cost of \$622,877 for grant administration. The five-year budgets from the JPAs would likely form the basis of grant requests; therefore, the grant administration plus five-year budgets totals \$9,561,639. 
+Let's assume that it would cost \$115,000/yr for a state agency to manage a grants program.[^mm] This includes staff, administrative, and operating costs. If we add an annual rate of inflation of 4\%, that gives a total five-year cost of \$622,877 for grant administration. The five-year budgets from the JPAs would likely form the basis of grant requests; therefore, the grant administration plus five-year budgets totals \$9,561,639. 
 
 Although the granting agency return on investment is really the public benefit from making the grants for project implementation, these operating costs would provide an ROI of -100\% since there would be no return ({numref}`avoided`). That ROI would continue to decrease over time, e.g., become more costly for the State, as the program continues to support the JPAs via grants. 
 
 On the other hand, the initial investment of \$44.6 million for the endowments amortizes to ~\$8.94 million over five years and gives a return of nearly \$9.2 million or 21\%. The return for the endowments would continue to grow and not be a recurring state cost, allowing state funds to be invested in other JPAs or new projects.
 
-:::{table} Avoided 5-year cost estimate estimated from the five pilot budgets vs. estimated agency costs to manage grant funds. The return is a 5-year return. ROI = Return on Investment.
+:::{table} Avoided 5-year costs (\$USD) estimated from the five pilot budgets vs. estimated agency costs to manage grant funds. The return is a 5-year return. ROI = Return on Investment.
 :label: avoided
 
 | Program    | Investment | Return     | ROI (%) |
@@ -212,6 +212,8 @@ On the other hand, the initial investment of \$44.6 million for the endowments a
 | Endowments | 8,938,762  | 8,940,719  | 21   |
 | Grants     | 9,615,071  | -9,615,071 | -100 |
 :::
+
+[^mm]: Based on estimated cost to run a California state agency grant program per year. Michael Maguire, LCI, personal communication.
 
 ### Revolving Loan Fund
 An innovative approach to multiplying the impact of a JPA’s funding endowment is to allocate a portion of the principal for low-interest loans to forest health operations and wood products businesses.[^loans] By acting as a community-based lender, the JPA can support local projects that might otherwise struggle to access affordable capital, accelerating restoration and market development. The interest payments received from these loans can then be reinvested into the endowment, steadily growing the principal over time. This strategy not only amplifies the reach of the original endowment but also creates a self-reinforcing cycle of investment and impact, enhancing both financial sustainability and landscape resilience.
@@ -338,4 +340,4 @@ Funding JPAs is not a simple task, as most public funding sources are focused on
 5. **Use the right revenue source**. Property and sales tax increases are more effective in populated areas with higher incomes; however, they are usually not appropriate for rural areas, where the tax base and population tend to be too low to provide sufficient funding.
 
 # Acknowledgements
-A special thank you to Michael Maguire, LCI; Sharmie Stevenson, Fall River RCD; Joshua Harrison, Center for the Study of the Force Majeure; Temra Costa, Regenerative Forest Solutions; and Christiana Darlington, CLERE, Inc., for reviewing the draft manuscript. Thank you to the entire Northeast California CAL FRAME team for ideas, edits, and development of the CAL FRAME Entity Action Report to LCI. Eternal gratitude to Jeff Odefey, One Water Alliance, for his collaboration in developing the initial ideas for this manuscript.
+A special thank you to Michael Maguire, LCI; Sharmie Stevenson, Fall River RCD; Joshua Harrison, Center for the Study of the Force Majeure; Temra Costa, Regenerative Forest Solutions; and Christiana Darlington, CLERE, Inc., for reviewing the draft manuscript. Thank you to the entire Northeast California CAL FRAME team for ideas, edits, and development of the CAL FRAME Entity Action Report to LCI. Eternal gratitude to Jeff Odefey, One Water Econ, for his collaboration in developing the initial ideas for this manuscript.
