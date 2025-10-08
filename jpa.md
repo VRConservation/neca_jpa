@@ -339,5 +339,5 @@ Funding JPAs is not a simple task, as most public funding sources are focused on
 4. **Leverage public funds with private investment**. When public funds are secured, immediately work to leverage them with other public and private funding resources. Don't wait until near the end of the grant cycle to look for additional funds.
 5. **Use the right revenue source**. Property and sales tax increases are more effective in populated areas with higher incomes; however, they are usually not appropriate for rural areas, where the tax base and population tend to be too low to provide sufficient funding.
 
-# Acknowledgements
+# Recognition
 A special thank you to Michael Maguire, LCI; Sharmie Stevenson, Fall River RCD; Joshua Harrison, Center for the Study of the Force Majeure; Temra Costa, Regenerative Forest Solutions; and Christiana Darlington, CLERE, Inc., for reviewing the draft manuscript. Thank you to the entire Northeast California CAL FRAME team for ideas, edits, and development of the CAL FRAME Entity Action Report to LCI. Eternal gratitude to Jeff Odefey, One Water Econ, for his collaboration in developing the initial ideas for this manuscript.
